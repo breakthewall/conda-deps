@@ -1,0 +1,342 @@
+{
+    "rrparser": {
+        "version": "2.5.0",
+        "depends": [
+            "brs_utils",
+            "colorlog",
+            "pandas",
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "brs_utils": {
+        "version": "1.21.0",
+        "depends": [
+            "colored",
+            "colorlog",
+            "python",
+            "requests"
+        ],
+        "license": "MIT"
+    },
+    "colored": {
+        "version": "1.4.4",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "python": {
+        "version": "3.11.0",
+        "depends": [
+            "bzip2",
+            "libffi",
+            "libsqlite",
+            "libzlib",
+            "ncurses",
+            "openssl",
+            "readline",
+            "tk",
+            "tzdata",
+            "xz",
+            "pip"
+        ],
+        "license": "PSF-2.0"
+    },
+    "bzip2": {
+        "version": "1.0.8",
+        "depends": [],
+        "license": "bzip2"
+    },
+    "libffi": {
+        "version": "3.4.2",
+        "depends": [],
+        "license": "MIT"
+    },
+    "libsqlite": {
+        "version": "3.40.0",
+        "depends": [
+            "libzlib"
+        ],
+        "license": "Unlicense"
+    },
+    "libzlib": {
+        "version": "1.2.13",
+        "depends": [],
+        "license": "Zlib"
+    },
+    "ncurses": {
+        "version": "6.3",
+        "depends": [],
+        "license": "X11 AND BSD-3-Clause"
+    },
+    "openssl": {
+        "version": "3.0.8",
+        "depends": [
+            "ca-certificates"
+        ],
+        "license": "Apache-2.0"
+    },
+    "ca-certificates": {
+        "version": "2022.12.7",
+        "depends": [],
+        "license": "ISC"
+    },
+    "readline": {
+        "version": "8.1.2",
+        "depends": [
+            "ncurses"
+        ],
+        "license": "GPL-3.0-only"
+    },
+    "tk": {
+        "version": "8.6.12",
+        "depends": [
+            "libzlib"
+        ],
+        "license": "TCL"
+    },
+    "tzdata": {
+        "version": "2022g",
+        "depends": [],
+        "license": "CC-PDDC OR BSD-3-Clause"
+    },
+    "xz": {
+        "version": "5.2.6",
+        "depends": [],
+        "license": "LGPL-2.1 and GPL-2.0"
+    },
+    "pip": {
+        "version": "23.0.1",
+        "depends": [
+            "python",
+            "setuptools",
+            "wheel"
+        ],
+        "license": "MIT"
+    },
+    "setuptools": {
+        "version": "67.4.0",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "wheel": {
+        "version": "0.38.4",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "colorlog": {
+        "version": "6.7.0",
+        "depends": [
+            "python",
+            "python_abi"
+        ],
+        "license": "MIT"
+    },
+    "python_abi": {
+        "version": "3.11",
+        "depends": [],
+        "license": "BSD-3-Clause"
+    },
+    "requests": {
+        "version": "2.28.2",
+        "depends": [
+            "certifi",
+            "charset-normalizer",
+            "idna",
+            "python",
+            "urllib3"
+        ],
+        "license": "Apache-2.0"
+    },
+    "certifi": {
+        "version": "2022.12.7",
+        "depends": [
+            "python"
+        ],
+        "license": "MPL-2.0"
+    },
+    "charset-normalizer": {
+        "version": "2.1.1",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "idna": {
+        "version": "3.4",
+        "depends": [
+            "python"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "urllib3": {
+        "version": "1.26.14",
+        "depends": [
+            "brotlipy",
+            "certifi",
+            "cryptography",
+            "idna",
+            "pyopenssl",
+            "pysocks",
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "brotlipy": {
+        "version": "0.7.0",
+        "depends": [
+            "cffi",
+            "python",
+            "python_abi"
+        ],
+        "license": "MIT"
+    },
+    "cffi": {
+        "version": "1.15.1",
+        "depends": [
+            "libffi",
+            "pycparser",
+            "python",
+            "python_abi"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "pycparser": {
+        "version": "2.21",
+        "depends": [
+            "python"
+        ],
+        "license": "BSD-3-clause"
+    },
+    "cryptography": {
+        "version": "39.0.1",
+        "depends": [
+            "cffi",
+            "openssl",
+            "python",
+            "python_abi"
+        ],
+        "license": "Apache-2.0 AND BSD-3-Clause AND PSF-2.0 AND MIT"
+    },
+    "pyopenssl": {
+        "version": "23.0.0",
+        "depends": [
+            "cryptography",
+            "python"
+        ],
+        "license": "Apache-2.0"
+    },
+    "pysocks": {
+        "version": "1.7.1",
+        "depends": [
+            "__unix",
+            "python"
+        ],
+        "license": "BSD 3-Clause"
+    },
+    "pandas": {
+        "version": "1.5.3",
+        "depends": [
+            "libcxx",
+            "numpy",
+            "python",
+            "python-dateutil",
+            "python_abi",
+            "pytz"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "libcxx": {
+        "version": "14.0.6",
+        "depends": [],
+        "license": "Apache-2.0 WITH LLVM-exception"
+    },
+    "numpy": {
+        "version": "1.24.2",
+        "depends": [
+            "libblas",
+            "libcblas",
+            "libcxx",
+            "liblapack",
+            "python",
+            "python_abi"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "libblas": {
+        "version": "3.9.0",
+        "depends": [
+            "libopenblas"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "libopenblas": {
+        "version": "0.3.21",
+        "depends": [
+            "libgfortran",
+            "libgfortran5",
+            "llvm-openmp"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "libgfortran": {
+        "version": "5.0.0",
+        "depends": [
+            "libgfortran5"
+        ],
+        "license": "GPL-3.0-only WITH GCC-exception-3.1"
+    },
+    "libgfortran5": {
+        "version": "11.3.0",
+        "depends": [
+            "llvm-openmp"
+        ],
+        "license": "GPL-3.0-only WITH GCC-exception-3.1"
+    },
+    "llvm-openmp": {
+        "version": "15.0.7",
+        "depends": [],
+        "license": "Apache-2.0 WITH LLVM-exception"
+    },
+    "libcblas": {
+        "version": "3.9.0",
+        "depends": [
+            "libblas"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "liblapack": {
+        "version": "3.9.0",
+        "depends": [
+            "libblas"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "python-dateutil": {
+        "version": "2.8.2",
+        "depends": [
+            "python",
+            "six"
+        ],
+        "license": "BSD-3-Clause and Apache"
+    },
+    "six": {
+        "version": "1.16.0",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "pytz": {
+        "version": "2022.7.1",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    }
+}

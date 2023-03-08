@@ -1,0 +1,21 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "version": "8.6.12",
+            "license": "TCL",
+            "id": "tk"
+        },
+        {
+            "id": "libzlib"
+        }
+    ],
+    "links": [
+        {
+            "source": "tk",
+            "target": "libzlib"
+        }
+    ]
+}

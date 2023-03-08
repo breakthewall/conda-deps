@@ -1,0 +1,3960 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "version": "8.6.12",
+            "license": "TCL",
+            "id": "tk"
+        },
+        {
+            "version": "1.2.13",
+            "license": "Zlib",
+            "id": "libzlib"
+        },
+        {
+            "version": "1.4.4",
+            "license": "MIT",
+            "id": "colored"
+        },
+        {
+            "version": "3.7.12",
+            "license": "BSD-3-Clause",
+            "id": "python"
+        },
+        {
+            "version": "23.0.1",
+            "license": "MIT",
+            "id": "pip"
+        },
+        {
+            "version": "15.0.7",
+            "license": "Apache-2.0 WITH LLVM-exception",
+            "id": "libcxx"
+        },
+        {
+            "version": "6.3",
+            "license": "X11 AND BSD-3-Clause",
+            "id": "ncurses"
+        },
+        {
+            "version": "5.2.6",
+            "license": "LGPL-2.1 and GPL-2.0",
+            "id": "xz"
+        },
+        {
+            "version": "8.1.2",
+            "license": "GPL-3.0-only",
+            "id": "readline"
+        },
+        {
+            "version": "3.0.8",
+            "license": "Apache-2.0",
+            "id": "openssl"
+        },
+        {
+            "version": "3.4.2",
+            "license": "MIT",
+            "id": "libffi"
+        },
+        {
+            "version": "3.40.0",
+            "license": "blessing",
+            "id": "sqlite"
+        },
+        {
+            "version": "59.8.0",
+            "license": "MIT",
+            "id": "setuptools"
+        },
+        {
+            "version": "0.38.4",
+            "license": "MIT",
+            "id": "wheel"
+        },
+        {
+            "version": "3.7",
+            "license": "BSD-3-Clause",
+            "id": "python_abi"
+        },
+        {
+            "version": "2022.12.7",
+            "license": "ISC",
+            "id": "ca-certificates"
+        },
+        {
+            "version": "3.40.0",
+            "license": "Unlicense",
+            "id": "libsqlite"
+        },
+        {
+            "version": "2.6.0",
+            "license": "MIT",
+            "id": "retropath2_wrapper"
+        },
+        {
+            "version": "1.2.0",
+            "license": "MIT",
+            "id": "filetype"
+        },
+        {
+            "version": "2.12.1",
+            "license": "GPL-2.0-only and LicenseRef-FreeType",
+            "id": "freetype"
+        },
+        {
+            "version": "1.21.0",
+            "license": "MIT",
+            "id": "brs_utils"
+        },
+        {
+            "version": "1.6.39",
+            "license": "Zlib",
+            "id": "libpng"
+        },
+        {
+            "version": "2.28.2",
+            "license": "Apache-2.0",
+            "id": "requests"
+        },
+        {
+            "version": "6.7.0",
+            "license": "MIT",
+            "id": "colorlog"
+        },
+        {
+            "version": "3.4",
+            "license": "BSD-3-Clause",
+            "id": "idna"
+        },
+        {
+            "version": "2022.12.7",
+            "license": "MPL-2.0",
+            "id": "certifi"
+        },
+        {
+            "version": "1.26.14",
+            "license": "MIT",
+            "id": "urllib3"
+        },
+        {
+            "version": "2.1.1",
+            "license": "MIT",
+            "id": "charset-normalizer"
+        },
+        {
+            "version": "23.0.0",
+            "license": "Apache-2.0",
+            "id": "pyopenssl"
+        },
+        {
+            "version": "38.0.2",
+            "license": "Apache-2.0 AND BSD-3-Clause AND PSF-2.0 AND MIT",
+            "id": "cryptography"
+        },
+        {
+            "version": "1.7.1",
+            "license": "BSD 3-Clause",
+            "id": "pysocks"
+        },
+        {
+            "version": "0.7.0",
+            "license": "MIT",
+            "id": "brotlipy"
+        },
+        {
+            "version": "1.15.1",
+            "license": "BSD-3-Clause",
+            "id": "cffi"
+        },
+        {
+            "version": "2.21",
+            "license": "BSD-3-clause",
+            "id": "pycparser"
+        },
+        {
+            "version": "1.5.0",
+            "license": "MIT",
+            "id": "rp2paths"
+        },
+        {
+            "version": "1.3.5",
+            "license": "BSD-3-Clause",
+            "id": "pandas"
+        },
+        {
+            "version": "4.9.1",
+            "license": "BSD-3-Clause and GPL-2.0-only and ZPL-2.0 and LicenseRef-ElementTree",
+            "id": "lxml"
+        },
+        {
+            "version": "0.20.1",
+            "license": "MIT",
+            "id": "python-graphviz"
+        },
+        {
+            "version": "2.50.0",
+            "license": "EPL-1.0",
+            "id": "graphviz"
+        },
+        {
+            "version": "17.0.3",
+            "license": "GPL-2.0-or-later WITH Classpath-exception-2.0",
+            "id": "openjdk"
+        },
+        {
+            "version": "2.0.2",
+            "license": "MIT",
+            "id": "pydotplus"
+        },
+        {
+            "version": "2019.03.1",
+            "license": "BSD 3-Clause",
+            "id": "rdkit"
+        },
+        {
+            "version": "1.21.6",
+            "license": "BSD-3-Clause",
+            "id": "numpy"
+        },
+        {
+            "version": "2019.3",
+            "license": "MIT",
+            "id": "pytz"
+        },
+        {
+            "version": "2.8.0",
+            "license": "BSD 3 Clause",
+            "id": "python-dateutil"
+        },
+        {
+            "version": "3.9.0",
+            "license": "BSD-3-Clause",
+            "id": "libblas"
+        },
+        {
+            "version": "3.9.0",
+            "license": "BSD-3-Clause",
+            "id": "libcblas"
+        },
+        {
+            "version": "3.9.0",
+            "license": "BSD-3-Clause",
+            "id": "liblapack"
+        },
+        {
+            "version": "0.3.21",
+            "license": "BSD-3-Clause",
+            "id": "libopenblas"
+        },
+        {
+            "version": "5.0.0",
+            "license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "id": "libgfortran"
+        },
+        {
+            "version": "12.2.0",
+            "license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "id": "libgfortran5"
+        },
+        {
+            "version": "15.0.7",
+            "license": "Apache-2.0 WITH LLVM-exception",
+            "id": "llvm-openmp"
+        },
+        {
+            "version": "1.16.0",
+            "license": "MIT",
+            "id": "six"
+        },
+        {
+            "version": "1.1.35",
+            "license": "MIT",
+            "id": "libxslt"
+        },
+        {
+            "version": "2.9.14",
+            "license": "MIT",
+            "id": "libxml2"
+        },
+        {
+            "version": "1.2.13",
+            "license": "Zlib",
+            "id": "zlib"
+        },
+        {
+            "version": "58.2",
+            "license": "MIT",
+            "id": "icu"
+        },
+        {
+            "version": "1.17",
+            "license": "GPL and LGPL",
+            "id": "libiconv"
+        },
+        {
+            "version": "1",
+            "license": "BSD-3-Clause",
+            "id": "fonts-conda-ecosystem"
+        },
+        {
+            "version": "2.4.7",
+            "license": "GPL-2.0-or-later",
+            "id": "libtool"
+        },
+        {
+            "version": "1.2.4",
+            "license": "BSD-3-Clause",
+            "id": "libwebp-base"
+        },
+        {
+            "version": "2.24.33",
+            "license": "LGPL-2.1-or-later",
+            "id": "gtk2"
+        },
+        {
+            "version": "1.16.0",
+            "license": "LGPL 2.1 or MPL 1.1",
+            "id": "cairo"
+        },
+        {
+            "version": "2.74.1",
+            "license": "LGPL-2.1-or-later",
+            "id": "libglib"
+        },
+        {
+            "version": "2.13.94",
+            "license": "MIT",
+            "id": "fontconfig"
+        },
+        {
+            "version": "2.42.8",
+            "license": "LGPL-2.1-or-later",
+            "id": "gdk-pixbuf"
+        },
+        {
+            "version": "2.3.3",
+            "license": "GD",
+            "id": "libgd"
+        },
+        {
+            "version": "0.7.6",
+            "license": "LGPLv2",
+            "id": "gts"
+        },
+        {
+            "version": "2.5.0",
+            "license": "MIT",
+            "id": "expat"
+        },
+        {
+            "version": "2.54.4",
+            "license": "LGPL-2.1-or-later",
+            "id": "librsvg"
+        },
+        {
+            "version": "1.50.7",
+            "license": "GPL-2.0-or-later",
+            "id": "pango"
+        },
+        {
+            "version": "1",
+            "license": "BSD-3-Clause",
+            "id": "fonts-conda-forge"
+        },
+        {
+            "version": "3.000",
+            "license": "OFL-1.1",
+            "id": "font-ttf-inconsolata"
+        },
+        {
+            "version": "2.038",
+            "license": "OFL-1.1",
+            "id": "font-ttf-source-code-pro"
+        },
+        {
+            "version": "2.37",
+            "license": "BSD-3",
+            "id": "font-ttf-dejavu-sans-mono"
+        },
+        {
+            "version": "0.83",
+            "license": "Ubuntu Font Licence Version 1.0",
+            "id": "font-ttf-ubuntu"
+        },
+        {
+            "version": "0.21.1",
+            "license": "LGPL-2.1-or-later AND GPL-3.0-or-later",
+            "id": "gettext"
+        },
+        {
+            "version": "2.38.0",
+            "license": "LGPL-2.0-or-later",
+            "id": "atk-1.0"
+        },
+        {
+            "version": "2.74.1",
+            "license": "LGPL-2.1-or-later",
+            "id": "glib"
+        },
+        {
+            "version": "0.38.0",
+            "license": "MIT",
+            "id": "pixman"
+        },
+        {
+            "version": "2.74.1",
+            "license": "LGPL-2.1-or-later",
+            "id": "glib-tools"
+        },
+        {
+            "version": "10.40",
+            "license": "BSD-3-Clause",
+            "id": "pcre2"
+        },
+        {
+            "version": "1.0.8",
+            "license": "bzip2",
+            "id": "bzip2"
+        },
+        {
+            "version": "9e",
+            "license": "IJG",
+            "id": "jpeg"
+        },
+        {
+            "version": "4.4.0",
+            "license": "HPND",
+            "id": "libtiff"
+        },
+        {
+            "version": "1.5.2",
+            "license": "BSD-3-Clause",
+            "id": "zstd"
+        },
+        {
+            "version": "4.0.0",
+            "license": "Apache-2.0",
+            "id": "lerc"
+        },
+        {
+            "version": "1.14",
+            "license": "MIT",
+            "id": "libdeflate"
+        },
+        {
+            "version": "4.3.0",
+            "license": "MIT",
+            "id": "harfbuzz"
+        },
+        {
+            "version": "1.0.10",
+            "license": "LGPL-2.1",
+            "id": "fribidi"
+        },
+        {
+            "version": "1.3.14",
+            "license": "LGPLv2",
+            "id": "graphite2"
+        },
+        {
+            "version": "2.4.7",
+            "license": "MIT",
+            "id": "pyparsing"
+        },
+        {
+            "version": "9.2.0",
+            "license": "LicenseRef-PIL",
+            "id": "pillow"
+        },
+        {
+            "version": "1.21.0",
+            "license": "LGPL-2.1-only OR MPL-1.1",
+            "id": "pycairo"
+        },
+        {
+            "version": "1.68.0",
+            "license": "Boost-1.0",
+            "id": "boost"
+        },
+        {
+            "version": "2.14",
+            "license": "MIT",
+            "id": "lcms2"
+        },
+        {
+            "version": "1.13",
+            "license": "MIT",
+            "id": "libxcb"
+        },
+        {
+            "version": "2.5.0",
+            "license": "BSD-2-Clause",
+            "id": "openjpeg"
+        },
+        {
+            "version": "1.1.3",
+            "license": "MIT",
+            "id": "xorg-libxdmcp"
+        },
+        {
+            "version": "1.0.9",
+            "license": "MIT",
+            "id": "xorg-libxau"
+        },
+        {
+            "version": "0.4",
+            "license": "MIT",
+            "id": "pthread-stubs"
+        },
+        {
+            "version": "1.68.0",
+            "license": "Boost-1.0",
+            "id": "boost-cpp"
+        },
+        {
+            "version": "2.5.0",
+            "license": "MIT",
+            "id": "rrparser"
+        },
+        {
+            "version": "6.2.2",
+            "license": "MIT",
+            "id": "rptools"
+        },
+        {
+            "version": "1.7.3",
+            "license": "BSD-3-Clause",
+            "id": "scipy"
+        },
+        {
+            "version": "3.7.0",
+            "license": "BSD-3-Clause",
+            "id": "h5py"
+        },
+        {
+            "version": "4.11.2",
+            "license": "MIT",
+            "id": "beautifulsoup4"
+        },
+        {
+            "version": "3.1.1",
+            "license": "GPL-2.0-only",
+            "id": "openbabel"
+        },
+        {
+            "version": "5.19.7",
+            "license": "LGPL-2.1-only",
+            "id": "python-libsbml"
+        },
+        {
+            "version": "1.6.2",
+            "license": "Apache-2.0",
+            "id": "xgboost"
+        },
+        {
+            "version": "0.4.3",
+            "license": "MIT",
+            "id": "equilibrator-api"
+        },
+        {
+            "version": "2.0.1",
+            "license": "MIT",
+            "id": "rr_cache"
+        },
+        {
+            "version": "0.21.0",
+            "license": "GNU Lesser General Public License v2 or later (LGPLv2+) or GNU General Public License v2 or later (GPLv2+)",
+            "id": "cobra"
+        },
+        {
+            "version": "3.0.3",
+            "license": "MIT",
+            "id": "rxn_rebuild"
+        },
+        {
+            "version": "2.7.0",
+            "license": "MIT",
+            "id": "chemlite"
+        },
+        {
+            "version": "2.7",
+            "license": "BSD-3-Clause",
+            "id": "networkx"
+        },
+        {
+            "version": "1.4.31",
+            "license": "MIT",
+            "id": "sqlalchemy"
+        },
+        {
+            "version": "1.5.2",
+            "license": "BSD-3-Clause",
+            "id": "cached-property"
+        },
+        {
+            "version": "1.12.2",
+            "license": "LicenseRef-HDF5",
+            "id": "hdf5"
+        },
+        {
+            "version": "1.5.2",
+            "license": "BSD-3-Clause",
+            "id": "cached_property"
+        },
+        {
+            "version": "7.88.1",
+            "license": "curl",
+            "id": "libcurl"
+        },
+        {
+            "version": "1.0.6",
+            "license": "BSD-2-Clause",
+            "id": "libaec"
+        },
+        {
+            "version": "1.10.0",
+            "license": "BSD-3-Clause",
+            "id": "libssh2"
+        },
+        {
+            "version": "1.20.1",
+            "license": "MIT",
+            "id": "krb5"
+        },
+        {
+            "version": "1.52.0",
+            "license": "MIT",
+            "id": "libnghttp2"
+        },
+        {
+            "version": "3.1.20191231",
+            "license": "BSD-2-Clause",
+            "id": "libedit"
+        },
+        {
+            "version": "1.18.1",
+            "license": "MIT",
+            "id": "c-ares"
+        },
+        {
+            "version": "4.33",
+            "license": "BSD-2-Clause",
+            "id": "libev"
+        },
+        {
+            "version": "2.3.2.post1",
+            "license": "MIT",
+            "id": "soupsieve"
+        },
+        {
+            "version": "1.6.2",
+            "license": "Apache-2.0",
+            "id": "py-xgboost"
+        },
+        {
+            "version": "1.0.2",
+            "license": "BSD-3-Clause",
+            "id": "scikit-learn"
+        },
+        {
+            "version": "2.0",
+            "license": "Unknown",
+            "id": "_py-xgboost-mutex"
+        },
+        {
+            "version": "1.6.2",
+            "license": "Apache-2.0",
+            "id": "libxgboost"
+        },
+        {
+            "version": "3.1.0",
+            "license": "BSD-3-Clause",
+            "id": "threadpoolctl"
+        },
+        {
+            "version": "1.2.0",
+            "license": "BSD-3-Clause",
+            "id": "joblib"
+        },
+        {
+            "version": "4.0.1",
+            "license": "MIT",
+            "id": "python-slugify"
+        },
+        {
+            "version": "0.4.1",
+            "license": "MIT",
+            "id": "equilibrator-cache"
+        },
+        {
+            "version": "0.4.2",
+            "license": "MIT",
+            "id": "component-contribution"
+        },
+        {
+            "version": "1.3.6",
+            "license": "GPL-2.0-or-later",
+            "id": "unidecode"
+        },
+        {
+            "version": "1.3",
+            "license": "Artistic",
+            "id": "text-unidecode"
+        },
+        {
+            "version": "5.1.3",
+            "license": "Apache-2.0",
+            "id": "importlib_resources"
+        },
+        {
+            "version": "0.20.7",
+            "license": "GPL-2.0-or-later",
+            "id": "python-levenshtein"
+        },
+        {
+            "version": "1.5.2",
+            "license": "Public domain",
+            "id": "periodictable"
+        },
+        {
+            "version": "1.4.4",
+            "license": "MIT",
+            "id": "appdirs"
+        },
+        {
+            "version": "0.23.0",
+            "license": "BSD-3-Clause",
+            "id": "httpx"
+        },
+        {
+            "version": "1.0.2",
+            "license": "Apache-2.0",
+            "id": "pyzenodo3"
+        },
+        {
+            "version": "6.3.1",
+            "license": "Apache 2.0",
+            "id": "tenacity"
+        },
+        {
+            "version": "0.18",
+            "license": "BSD-3-Clause",
+            "id": "pint"
+        },
+        {
+            "version": "4.65.0",
+            "license": "MPL-2.0 or MIT",
+            "id": "tqdm"
+        },
+        {
+            "version": "4.11.4",
+            "license": "Apache-2.0",
+            "id": "importlib_metadata"
+        },
+        {
+            "version": "0.6.0",
+            "license": "MIT",
+            "id": "zipp"
+        },
+        {
+            "version": "4.11.4",
+            "license": "Apache-2.0",
+            "id": "importlib-metadata"
+        },
+        {
+            "version": "4.4.0",
+            "license": "PSF-2.0",
+            "id": "typing_extensions"
+        },
+        {
+            "version": "7.2.0",
+            "license": "MIT",
+            "id": "more-itertools"
+        },
+        {
+            "version": "0.20.7",
+            "license": "GPL-2.0-or-later",
+            "id": "levenshtein"
+        },
+        {
+            "version": "2.12.0",
+            "license": "MIT",
+            "id": "rapidfuzz"
+        },
+        {
+            "version": "1.2.3",
+            "license": "MIT",
+            "id": "jarowinkler"
+        },
+        {
+            "version": "1.3.0",
+            "license": "Apache-2.0",
+            "id": "sniffio"
+        },
+        {
+            "version": "1.5.0",
+            "license": "Apache-2.0",
+            "id": "rfc3986"
+        },
+        {
+            "version": "0.15.0",
+            "license": "BSD-3-Clause",
+            "id": "httpcore"
+        },
+        {
+            "version": "4.1.0",
+            "license": "MIT",
+            "id": "h2"
+        },
+        {
+            "version": "0.12.0",
+            "license": "MIT",
+            "id": "h11"
+        },
+        {
+            "version": "3.6.2",
+            "license": "MIT",
+            "id": "anyio"
+        },
+        {
+            "version": "4.0.0",
+            "license": "MIT",
+            "id": "hpack"
+        },
+        {
+            "version": "6.0.1",
+            "license": "MIT",
+            "id": "hyperframe"
+        },
+        {
+            "version": "23.0",
+            "license": "Apache-2.0",
+            "id": "packaging"
+        },
+        {
+            "version": "0.4.6",
+            "license": "BSD-3-Clause",
+            "id": "colorama"
+        },
+        {
+            "version": "1.1.3",
+            "license": "MIT",
+            "id": "greenlet"
+        },
+        {
+            "version": "3.1.7",
+            "license": "BSD-3-Clause",
+            "id": "uncertainties"
+        },
+        {
+            "version": "15.1.2",
+            "license": "MIT",
+            "id": "path"
+        },
+        {
+            "version": "5.4.0",
+            "license": "Apache-2.0",
+            "id": "diskcache"
+        },
+        {
+            "version": "0.18.2",
+            "license": "MIT",
+            "id": "future"
+        },
+        {
+            "version": "0.9.0",
+            "license": "MIT",
+            "id": "tabulate"
+        },
+        {
+            "version": "2.2.0",
+            "license": "Apache-2.0",
+            "id": "depinfo"
+        },
+        {
+            "version": "5.0.5",
+            "license": "GPL-3.0-only",
+            "id": "swiglpk"
+        },
+        {
+            "version": "1.4.4",
+            "license": "Apache-2.0",
+            "id": "optlang"
+        },
+        {
+            "version": "1.10.2",
+            "license": "MIT",
+            "id": "pydantic"
+        },
+        {
+            "version": "13.3.1",
+            "license": "MIT",
+            "id": "rich"
+        },
+        {
+            "version": "0.17.21",
+            "license": "MIT",
+            "id": "ruamel.yaml"
+        },
+        {
+            "version": "5.0",
+            "license": "GPL-3.0-or-later",
+            "id": "glpk"
+        },
+        {
+            "version": "6.2.1",
+            "license": "GPL-2.0-or-later AND LGPL-3.0-or-later",
+            "id": "gmp"
+        },
+        {
+            "version": "1.10.1",
+            "license": "BSD-3-Clause",
+            "id": "sympy"
+        },
+        {
+            "version": "1.2.1",
+            "license": "BSD 3-Clause",
+            "id": "mpmath"
+        },
+        {
+            "version": "2.1.2",
+            "license": "LGPL-3.0-or-later",
+            "id": "gmpy2"
+        },
+        {
+            "version": "4.1.0",
+            "license": "LGPL-3.0-only",
+            "id": "mpfr"
+        },
+        {
+            "version": "1.3.1",
+            "license": "LGPL-3.0-or-later",
+            "id": "mpc"
+        },
+        {
+            "version": "4.4.0",
+            "license": "PSF-2.0",
+            "id": "typing-extensions"
+        },
+        {
+            "version": "2.14.0",
+            "license": "BSD-2-Clause",
+            "id": "pygments"
+        },
+        {
+            "version": "2.2.0",
+            "license": "MIT",
+            "id": "markdown-it-py"
+        },
+        {
+            "version": "0.1.0",
+            "license": "MIT",
+            "id": "mdurl"
+        },
+        {
+            "version": "0.2.6",
+            "license": "MIT",
+            "id": "ruamel.yaml.clib"
+        },
+        {
+            "version": "3.5.3",
+            "license": "LicenseRef-PSF-based",
+            "id": "matplotlib-base"
+        },
+        {
+            "version": "0.11.0",
+            "license": "BSD-3-Clause",
+            "id": "cycler"
+        },
+        {
+            "version": "1.4.4",
+            "license": "BSD-3-Clause",
+            "id": "kiwisolver"
+        },
+        {
+            "version": "4.38.0",
+            "license": "MIT",
+            "id": "fonttools"
+        },
+        {
+            "version": "1.0.9",
+            "license": "MIT",
+            "id": "brotli"
+        },
+        {
+            "version": "1.1.4",
+            "license": "Apache-2.0",
+            "id": "munkres"
+        },
+        {
+            "version": "14.0.0",
+            "license": "Apache-2.0",
+            "id": "unicodedata2"
+        },
+        {
+            "version": "1.0.9",
+            "license": "MIT",
+            "id": "libbrotlidec"
+        },
+        {
+            "version": "1.0.9",
+            "license": "MIT",
+            "id": "libbrotlienc"
+        },
+        {
+            "version": "1.0.9",
+            "license": "MIT",
+            "id": "brotli-bin"
+        },
+        {
+            "version": "1.0.9",
+            "license": "MIT",
+            "id": "libbrotlicommon"
+        },
+        {
+            "version": "0.3.0",
+            "license": "MIT",
+            "id": "selenzy_wrapper"
+        },
+        {
+            "version": "6.6.0",
+            "license": "GPL",
+            "id": "emboss"
+        },
+        {
+            "version": "1.77",
+            "license": "Biopython License Agreement",
+            "id": "biopython"
+        },
+        {
+            "version": "1.2.2",
+            "license": "MIT",
+            "id": "rpbasicdesign"
+        },
+        {
+            "version": "1.2",
+            "license": "Apache-2.0",
+            "id": "pysbol2"
+        },
+        {
+            "version": "1.2.13",
+            "license": "MIT",
+            "id": "deprecated"
+        },
+        {
+            "version": "6.2.0",
+            "license": "BSD-3-Clause",
+            "id": "rdflib"
+        },
+        {
+            "version": "1.14.1",
+            "license": "BSD-2-Clause",
+            "id": "wrapt"
+        },
+        {
+            "version": "1.1",
+            "license": "MIT",
+            "id": "html5lib"
+        },
+        {
+            "version": "0.6.1",
+            "license": "BSD-3-Clause",
+            "id": "isodate"
+        },
+        {
+            "version": "0.5.1",
+            "license": "BSD 3-Clause",
+            "id": "webencodings"
+        },
+        {
+            "version": "3.1.0",
+            "license": "MIT",
+            "id": "dnabot"
+        },
+        {
+            "version": "6.0",
+            "license": "MIT",
+            "id": "pyyaml"
+        },
+        {
+            "version": "4.17.3",
+            "license": "MIT",
+            "id": "jsonschema"
+        },
+        {
+            "version": "1.7.2",
+            "license": "Apache-2.0",
+            "id": "yarl"
+        },
+        {
+            "version": "6.0.2",
+            "license": "Apache-2.0",
+            "id": "multidict"
+        },
+        {
+            "version": "1.8.4",
+            "license": "MIT",
+            "id": "xorg-libx11"
+        },
+        {
+            "version": "2.1.2",
+            "license": "LGPL-2.1-or-later",
+            "id": "urwid"
+        },
+        {
+            "version": "0.18.1",
+            "license": "MIT",
+            "id": "pyrsistent"
+        },
+        {
+            "version": "3.7.4.post0",
+            "license": "Apache-2.0",
+            "id": "aiohttp"
+        },
+        {
+            "version": "3.0.1",
+            "license": "Apache 2.0",
+            "id": "async-timeout"
+        },
+        {
+            "version": "19.3.0",
+            "license": "MIT",
+            "id": "attrs"
+        },
+        {
+            "version": "3.0.4",
+            "license": "LGPL2",
+            "id": "chardet"
+        },
+        {
+            "version": "3.4",
+            "license": "BSD-3-Clause",
+            "id": "pyserial"
+        },
+        {
+            "version": "0.2.5",
+            "license": "MIT",
+            "id": "yaml"
+        },
+        {
+            "version": "1.3.10",
+            "license": "MIT AND PSF-2.0",
+            "id": "pkgutil-resolve-name"
+        },
+        {
+            "version": "7.0.31",
+            "license": "MIT",
+            "id": "xorg-xproto"
+        },
+        {
+            "version": "1.0.7",
+            "license": "MIT",
+            "id": "xorg-kbproto"
+        },
+        {
+            "version": "7.3.0",
+            "license": "MIT",
+            "id": "xorg-xextproto"
+        }
+    ],
+    "links": [
+        {
+            "source": "tk",
+            "target": "libzlib"
+        },
+        {
+            "source": "colored",
+            "target": "python"
+        },
+        {
+            "source": "python",
+            "target": "pip"
+        },
+        {
+            "source": "python",
+            "target": "libcxx"
+        },
+        {
+            "source": "python",
+            "target": "ncurses"
+        },
+        {
+            "source": "python",
+            "target": "libzlib"
+        },
+        {
+            "source": "python",
+            "target": "xz"
+        },
+        {
+            "source": "python",
+            "target": "readline"
+        },
+        {
+            "source": "python",
+            "target": "openssl"
+        },
+        {
+            "source": "python",
+            "target": "libffi"
+        },
+        {
+            "source": "python",
+            "target": "sqlite"
+        },
+        {
+            "source": "python",
+            "target": "tk"
+        },
+        {
+            "source": "pip",
+            "target": "setuptools"
+        },
+        {
+            "source": "pip",
+            "target": "wheel"
+        },
+        {
+            "source": "pip",
+            "target": "python"
+        },
+        {
+            "source": "readline",
+            "target": "ncurses"
+        },
+        {
+            "source": "openssl",
+            "target": "ca-certificates"
+        },
+        {
+            "source": "sqlite",
+            "target": "libzlib"
+        },
+        {
+            "source": "sqlite",
+            "target": "ncurses"
+        },
+        {
+            "source": "sqlite",
+            "target": "readline"
+        },
+        {
+            "source": "sqlite",
+            "target": "libsqlite"
+        },
+        {
+            "source": "setuptools",
+            "target": "python"
+        },
+        {
+            "source": "setuptools",
+            "target": "python_abi"
+        },
+        {
+            "source": "wheel",
+            "target": "python"
+        },
+        {
+            "source": "libsqlite",
+            "target": "libzlib"
+        },
+        {
+            "source": "retropath2_wrapper",
+            "target": "colored"
+        },
+        {
+            "source": "retropath2_wrapper",
+            "target": "filetype"
+        },
+        {
+            "source": "retropath2_wrapper",
+            "target": "freetype"
+        },
+        {
+            "source": "retropath2_wrapper",
+            "target": "python"
+        },
+        {
+            "source": "retropath2_wrapper",
+            "target": "brs_utils"
+        },
+        {
+            "source": "filetype",
+            "target": "python"
+        },
+        {
+            "source": "freetype",
+            "target": "libzlib"
+        },
+        {
+            "source": "freetype",
+            "target": "libpng"
+        },
+        {
+            "source": "brs_utils",
+            "target": "requests"
+        },
+        {
+            "source": "brs_utils",
+            "target": "colorlog"
+        },
+        {
+            "source": "brs_utils",
+            "target": "colored"
+        },
+        {
+            "source": "brs_utils",
+            "target": "python"
+        },
+        {
+            "source": "libpng",
+            "target": "libzlib"
+        },
+        {
+            "source": "requests",
+            "target": "python"
+        },
+        {
+            "source": "requests",
+            "target": "idna"
+        },
+        {
+            "source": "requests",
+            "target": "certifi"
+        },
+        {
+            "source": "requests",
+            "target": "urllib3"
+        },
+        {
+            "source": "requests",
+            "target": "charset-normalizer"
+        },
+        {
+            "source": "colorlog",
+            "target": "python"
+        },
+        {
+            "source": "colorlog",
+            "target": "python_abi"
+        },
+        {
+            "source": "idna",
+            "target": "python"
+        },
+        {
+            "source": "certifi",
+            "target": "python"
+        },
+        {
+            "source": "urllib3",
+            "target": "certifi"
+        },
+        {
+            "source": "urllib3",
+            "target": "python"
+        },
+        {
+            "source": "urllib3",
+            "target": "idna"
+        },
+        {
+            "source": "urllib3",
+            "target": "pyopenssl"
+        },
+        {
+            "source": "urllib3",
+            "target": "cryptography"
+        },
+        {
+            "source": "urllib3",
+            "target": "pysocks"
+        },
+        {
+            "source": "urllib3",
+            "target": "brotlipy"
+        },
+        {
+            "source": "charset-normalizer",
+            "target": "python"
+        },
+        {
+            "source": "pyopenssl",
+            "target": "python"
+        },
+        {
+            "source": "pyopenssl",
+            "target": "cryptography"
+        },
+        {
+            "source": "cryptography",
+            "target": "python"
+        },
+        {
+            "source": "cryptography",
+            "target": "python_abi"
+        },
+        {
+            "source": "cryptography",
+            "target": "openssl"
+        },
+        {
+            "source": "cryptography",
+            "target": "cffi"
+        },
+        {
+            "source": "pysocks",
+            "target": "python"
+        },
+        {
+            "source": "pysocks",
+            "target": "python_abi"
+        },
+        {
+            "source": "brotlipy",
+            "target": "python"
+        },
+        {
+            "source": "brotlipy",
+            "target": "python_abi"
+        },
+        {
+            "source": "brotlipy",
+            "target": "cffi"
+        },
+        {
+            "source": "cffi",
+            "target": "pycparser"
+        },
+        {
+            "source": "cffi",
+            "target": "python"
+        },
+        {
+            "source": "cffi",
+            "target": "python_abi"
+        },
+        {
+            "source": "cffi",
+            "target": "libffi"
+        },
+        {
+            "source": "pycparser",
+            "target": "python"
+        },
+        {
+            "source": "rp2paths",
+            "target": "pandas"
+        },
+        {
+            "source": "rp2paths",
+            "target": "lxml"
+        },
+        {
+            "source": "rp2paths",
+            "target": "python-graphviz"
+        },
+        {
+            "source": "rp2paths",
+            "target": "graphviz"
+        },
+        {
+            "source": "rp2paths",
+            "target": "openjdk"
+        },
+        {
+            "source": "rp2paths",
+            "target": "pydotplus"
+        },
+        {
+            "source": "rp2paths",
+            "target": "python"
+        },
+        {
+            "source": "rp2paths",
+            "target": "rdkit"
+        },
+        {
+            "source": "pandas",
+            "target": "python"
+        },
+        {
+            "source": "pandas",
+            "target": "python_abi"
+        },
+        {
+            "source": "pandas",
+            "target": "libcxx"
+        },
+        {
+            "source": "pandas",
+            "target": "numpy"
+        },
+        {
+            "source": "pandas",
+            "target": "setuptools"
+        },
+        {
+            "source": "pandas",
+            "target": "pytz"
+        },
+        {
+            "source": "pandas",
+            "target": "python-dateutil"
+        },
+        {
+            "source": "lxml",
+            "target": "python"
+        },
+        {
+            "source": "lxml",
+            "target": "python_abi"
+        },
+        {
+            "source": "lxml",
+            "target": "libxslt"
+        },
+        {
+            "source": "lxml",
+            "target": "libxml2"
+        },
+        {
+            "source": "python-graphviz",
+            "target": "python"
+        },
+        {
+            "source": "python-graphviz",
+            "target": "graphviz"
+        },
+        {
+            "source": "graphviz",
+            "target": "fonts-conda-ecosystem"
+        },
+        {
+            "source": "graphviz",
+            "target": "libtool"
+        },
+        {
+            "source": "graphviz",
+            "target": "libwebp-base"
+        },
+        {
+            "source": "graphviz",
+            "target": "gtk2"
+        },
+        {
+            "source": "graphviz",
+            "target": "libcxx"
+        },
+        {
+            "source": "graphviz",
+            "target": "zlib"
+        },
+        {
+            "source": "graphviz",
+            "target": "libzlib"
+        },
+        {
+            "source": "graphviz",
+            "target": "freetype"
+        },
+        {
+            "source": "graphviz",
+            "target": "cairo"
+        },
+        {
+            "source": "graphviz",
+            "target": "libglib"
+        },
+        {
+            "source": "graphviz",
+            "target": "fontconfig"
+        },
+        {
+            "source": "graphviz",
+            "target": "gdk-pixbuf"
+        },
+        {
+            "source": "graphviz",
+            "target": "libgd"
+        },
+        {
+            "source": "graphviz",
+            "target": "gts"
+        },
+        {
+            "source": "graphviz",
+            "target": "expat"
+        },
+        {
+            "source": "graphviz",
+            "target": "librsvg"
+        },
+        {
+            "source": "graphviz",
+            "target": "pango"
+        },
+        {
+            "source": "openjdk",
+            "target": "libcxx"
+        },
+        {
+            "source": "openjdk",
+            "target": "libzlib"
+        },
+        {
+            "source": "pydotplus",
+            "target": "python"
+        },
+        {
+            "source": "pydotplus",
+            "target": "pyparsing"
+        },
+        {
+            "source": "pydotplus",
+            "target": "graphviz"
+        },
+        {
+            "source": "rdkit",
+            "target": "six"
+        },
+        {
+            "source": "rdkit",
+            "target": "pandas"
+        },
+        {
+            "source": "rdkit",
+            "target": "pillow"
+        },
+        {
+            "source": "rdkit",
+            "target": "pycairo"
+        },
+        {
+            "source": "rdkit",
+            "target": "python"
+        },
+        {
+            "source": "rdkit",
+            "target": "libcxx"
+        },
+        {
+            "source": "rdkit",
+            "target": "numpy"
+        },
+        {
+            "source": "rdkit",
+            "target": "cairo"
+        },
+        {
+            "source": "rdkit",
+            "target": "freetype"
+        },
+        {
+            "source": "rdkit",
+            "target": "boost"
+        },
+        {
+            "source": "numpy",
+            "target": "python"
+        },
+        {
+            "source": "numpy",
+            "target": "python_abi"
+        },
+        {
+            "source": "numpy",
+            "target": "libblas"
+        },
+        {
+            "source": "numpy",
+            "target": "libcxx"
+        },
+        {
+            "source": "numpy",
+            "target": "libcblas"
+        },
+        {
+            "source": "numpy",
+            "target": "liblapack"
+        },
+        {
+            "source": "pytz",
+            "target": "python"
+        },
+        {
+            "source": "python-dateutil",
+            "target": "python"
+        },
+        {
+            "source": "python-dateutil",
+            "target": "six"
+        },
+        {
+            "source": "libblas",
+            "target": "libopenblas"
+        },
+        {
+            "source": "libcblas",
+            "target": "libblas"
+        },
+        {
+            "source": "liblapack",
+            "target": "libblas"
+        },
+        {
+            "source": "libopenblas",
+            "target": "libgfortran"
+        },
+        {
+            "source": "libopenblas",
+            "target": "libgfortran5"
+        },
+        {
+            "source": "libopenblas",
+            "target": "llvm-openmp"
+        },
+        {
+            "source": "libgfortran",
+            "target": "libgfortran5"
+        },
+        {
+            "source": "libgfortran5",
+            "target": "llvm-openmp"
+        },
+        {
+            "source": "six",
+            "target": "python"
+        },
+        {
+            "source": "libxslt",
+            "target": "libxml2"
+        },
+        {
+            "source": "libxml2",
+            "target": "zlib"
+        },
+        {
+            "source": "libxml2",
+            "target": "xz"
+        },
+        {
+            "source": "libxml2",
+            "target": "icu"
+        },
+        {
+            "source": "libxml2",
+            "target": "libiconv"
+        },
+        {
+            "source": "zlib",
+            "target": "libzlib"
+        },
+        {
+            "source": "icu",
+            "target": "libcxx"
+        },
+        {
+            "source": "fonts-conda-ecosystem",
+            "target": "fonts-conda-forge"
+        },
+        {
+            "source": "gtk2",
+            "target": "cairo"
+        },
+        {
+            "source": "gtk2",
+            "target": "gettext"
+        },
+        {
+            "source": "gtk2",
+            "target": "libglib"
+        },
+        {
+            "source": "gtk2",
+            "target": "gdk-pixbuf"
+        },
+        {
+            "source": "gtk2",
+            "target": "atk-1.0"
+        },
+        {
+            "source": "gtk2",
+            "target": "pango"
+        },
+        {
+            "source": "cairo",
+            "target": "zlib"
+        },
+        {
+            "source": "cairo",
+            "target": "freetype"
+        },
+        {
+            "source": "cairo",
+            "target": "libpng"
+        },
+        {
+            "source": "cairo",
+            "target": "glib"
+        },
+        {
+            "source": "cairo",
+            "target": "fontconfig"
+        },
+        {
+            "source": "cairo",
+            "target": "icu"
+        },
+        {
+            "source": "cairo",
+            "target": "pixman"
+        },
+        {
+            "source": "libglib",
+            "target": "libcxx"
+        },
+        {
+            "source": "libglib",
+            "target": "libzlib"
+        },
+        {
+            "source": "libglib",
+            "target": "libiconv"
+        },
+        {
+            "source": "libglib",
+            "target": "pcre2"
+        },
+        {
+            "source": "libglib",
+            "target": "libffi"
+        },
+        {
+            "source": "libglib",
+            "target": "gettext"
+        },
+        {
+            "source": "fontconfig",
+            "target": "freetype"
+        },
+        {
+            "source": "fontconfig",
+            "target": "libxml2"
+        },
+        {
+            "source": "gdk-pixbuf",
+            "target": "libzlib"
+        },
+        {
+            "source": "gdk-pixbuf",
+            "target": "jpeg"
+        },
+        {
+            "source": "gdk-pixbuf",
+            "target": "zlib"
+        },
+        {
+            "source": "gdk-pixbuf",
+            "target": "libtiff"
+        },
+        {
+            "source": "gdk-pixbuf",
+            "target": "libpng"
+        },
+        {
+            "source": "gdk-pixbuf",
+            "target": "libglib"
+        },
+        {
+            "source": "libgd",
+            "target": "expat"
+        },
+        {
+            "source": "libgd",
+            "target": "icu"
+        },
+        {
+            "source": "libgd",
+            "target": "libwebp-base"
+        },
+        {
+            "source": "libgd",
+            "target": "freetype"
+        },
+        {
+            "source": "libgd",
+            "target": "libtiff"
+        },
+        {
+            "source": "libgd",
+            "target": "libpng"
+        },
+        {
+            "source": "libgd",
+            "target": "jpeg"
+        },
+        {
+            "source": "libgd",
+            "target": "libiconv"
+        },
+        {
+            "source": "libgd",
+            "target": "fontconfig"
+        },
+        {
+            "source": "gts",
+            "target": "libcxx"
+        },
+        {
+            "source": "gts",
+            "target": "libglib"
+        },
+        {
+            "source": "expat",
+            "target": "libcxx"
+        },
+        {
+            "source": "librsvg",
+            "target": "cairo"
+        },
+        {
+            "source": "librsvg",
+            "target": "gettext"
+        },
+        {
+            "source": "librsvg",
+            "target": "libxml2"
+        },
+        {
+            "source": "librsvg",
+            "target": "libglib"
+        },
+        {
+            "source": "librsvg",
+            "target": "gdk-pixbuf"
+        },
+        {
+            "source": "librsvg",
+            "target": "pango"
+        },
+        {
+            "source": "pango",
+            "target": "freetype"
+        },
+        {
+            "source": "pango",
+            "target": "glib"
+        },
+        {
+            "source": "pango",
+            "target": "harfbuzz"
+        },
+        {
+            "source": "pango",
+            "target": "fontconfig"
+        },
+        {
+            "source": "pango",
+            "target": "cairo"
+        },
+        {
+            "source": "pango",
+            "target": "fribidi"
+        },
+        {
+            "source": "fonts-conda-forge",
+            "target": "font-ttf-inconsolata"
+        },
+        {
+            "source": "fonts-conda-forge",
+            "target": "font-ttf-source-code-pro"
+        },
+        {
+            "source": "fonts-conda-forge",
+            "target": "font-ttf-dejavu-sans-mono"
+        },
+        {
+            "source": "fonts-conda-forge",
+            "target": "font-ttf-ubuntu"
+        },
+        {
+            "source": "gettext",
+            "target": "libiconv"
+        },
+        {
+            "source": "atk-1.0",
+            "target": "libcxx"
+        },
+        {
+            "source": "atk-1.0",
+            "target": "libglib"
+        },
+        {
+            "source": "glib",
+            "target": "libcxx"
+        },
+        {
+            "source": "glib",
+            "target": "libzlib"
+        },
+        {
+            "source": "glib",
+            "target": "gettext"
+        },
+        {
+            "source": "glib",
+            "target": "python"
+        },
+        {
+            "source": "glib",
+            "target": "libglib"
+        },
+        {
+            "source": "glib",
+            "target": "glib-tools"
+        },
+        {
+            "source": "glib-tools",
+            "target": "libcxx"
+        },
+        {
+            "source": "glib-tools",
+            "target": "libzlib"
+        },
+        {
+            "source": "glib-tools",
+            "target": "libglib"
+        },
+        {
+            "source": "pcre2",
+            "target": "bzip2"
+        },
+        {
+            "source": "pcre2",
+            "target": "libzlib"
+        },
+        {
+            "source": "libtiff",
+            "target": "libcxx"
+        },
+        {
+            "source": "libtiff",
+            "target": "libzlib"
+        },
+        {
+            "source": "libtiff",
+            "target": "zstd"
+        },
+        {
+            "source": "libtiff",
+            "target": "jpeg"
+        },
+        {
+            "source": "libtiff",
+            "target": "xz"
+        },
+        {
+            "source": "libtiff",
+            "target": "libwebp-base"
+        },
+        {
+            "source": "libtiff",
+            "target": "lerc"
+        },
+        {
+            "source": "libtiff",
+            "target": "libdeflate"
+        },
+        {
+            "source": "zstd",
+            "target": "libcxx"
+        },
+        {
+            "source": "zstd",
+            "target": "libzlib"
+        },
+        {
+            "source": "lerc",
+            "target": "libcxx"
+        },
+        {
+            "source": "harfbuzz",
+            "target": "libcxx"
+        },
+        {
+            "source": "harfbuzz",
+            "target": "freetype"
+        },
+        {
+            "source": "harfbuzz",
+            "target": "icu"
+        },
+        {
+            "source": "harfbuzz",
+            "target": "glib"
+        },
+        {
+            "source": "harfbuzz",
+            "target": "cairo"
+        },
+        {
+            "source": "harfbuzz",
+            "target": "graphite2"
+        },
+        {
+            "source": "graphite2",
+            "target": "libcxx"
+        },
+        {
+            "source": "pyparsing",
+            "target": "python"
+        },
+        {
+            "source": "pillow",
+            "target": "python"
+        },
+        {
+            "source": "pillow",
+            "target": "python_abi"
+        },
+        {
+            "source": "pillow",
+            "target": "libzlib"
+        },
+        {
+            "source": "pillow",
+            "target": "jpeg"
+        },
+        {
+            "source": "pillow",
+            "target": "freetype"
+        },
+        {
+            "source": "pillow",
+            "target": "libtiff"
+        },
+        {
+            "source": "pillow",
+            "target": "libwebp-base"
+        },
+        {
+            "source": "pillow",
+            "target": "lcms2"
+        },
+        {
+            "source": "pillow",
+            "target": "tk"
+        },
+        {
+            "source": "pillow",
+            "target": "libxcb"
+        },
+        {
+            "source": "pillow",
+            "target": "openjpeg"
+        },
+        {
+            "source": "pycairo",
+            "target": "python"
+        },
+        {
+            "source": "pycairo",
+            "target": "python_abi"
+        },
+        {
+            "source": "pycairo",
+            "target": "cairo"
+        },
+        {
+            "source": "boost",
+            "target": "python"
+        },
+        {
+            "source": "boost",
+            "target": "libcxx"
+        },
+        {
+            "source": "boost",
+            "target": "numpy"
+        },
+        {
+            "source": "boost",
+            "target": "boost-cpp"
+        },
+        {
+            "source": "lcms2",
+            "target": "jpeg"
+        },
+        {
+            "source": "lcms2",
+            "target": "libtiff"
+        },
+        {
+            "source": "libxcb",
+            "target": "xorg-libxdmcp"
+        },
+        {
+            "source": "libxcb",
+            "target": "xorg-libxau"
+        },
+        {
+            "source": "libxcb",
+            "target": "pthread-stubs"
+        },
+        {
+            "source": "openjpeg",
+            "target": "libcxx"
+        },
+        {
+            "source": "openjpeg",
+            "target": "libpng"
+        },
+        {
+            "source": "openjpeg",
+            "target": "libzlib"
+        },
+        {
+            "source": "openjpeg",
+            "target": "libtiff"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "zlib"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "libcxx"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "xz"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "bzip2"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "icu"
+        },
+        {
+            "source": "rrparser",
+            "target": "pandas"
+        },
+        {
+            "source": "rrparser",
+            "target": "colorlog"
+        },
+        {
+            "source": "rrparser",
+            "target": "brs_utils"
+        },
+        {
+            "source": "rrparser",
+            "target": "python"
+        },
+        {
+            "source": "rptools",
+            "target": "scipy"
+        },
+        {
+            "source": "rptools",
+            "target": "pandas"
+        },
+        {
+            "source": "rptools",
+            "target": "h5py"
+        },
+        {
+            "source": "rptools",
+            "target": "beautifulsoup4"
+        },
+        {
+            "source": "rptools",
+            "target": "rdkit"
+        },
+        {
+            "source": "rptools",
+            "target": "openbabel"
+        },
+        {
+            "source": "rptools",
+            "target": "python-libsbml"
+        },
+        {
+            "source": "rptools",
+            "target": "colored"
+        },
+        {
+            "source": "rptools",
+            "target": "xgboost"
+        },
+        {
+            "source": "rptools",
+            "target": "brs_utils"
+        },
+        {
+            "source": "rptools",
+            "target": "filetype"
+        },
+        {
+            "source": "rptools",
+            "target": "equilibrator-api"
+        },
+        {
+            "source": "rptools",
+            "target": "rr_cache"
+        },
+        {
+            "source": "rptools",
+            "target": "cobra"
+        },
+        {
+            "source": "rptools",
+            "target": "rxn_rebuild"
+        },
+        {
+            "source": "rptools",
+            "target": "chemlite"
+        },
+        {
+            "source": "rptools",
+            "target": "python"
+        },
+        {
+            "source": "rptools",
+            "target": "networkx"
+        },
+        {
+            "source": "rptools",
+            "target": "sqlalchemy"
+        },
+        {
+            "source": "rptools",
+            "target": "numpy"
+        },
+        {
+            "source": "scipy",
+            "target": "python"
+        },
+        {
+            "source": "scipy",
+            "target": "python_abi"
+        },
+        {
+            "source": "scipy",
+            "target": "libcxx"
+        },
+        {
+            "source": "scipy",
+            "target": "libgfortran"
+        },
+        {
+            "source": "scipy",
+            "target": "libblas"
+        },
+        {
+            "source": "scipy",
+            "target": "libgfortran5"
+        },
+        {
+            "source": "scipy",
+            "target": "numpy"
+        },
+        {
+            "source": "scipy",
+            "target": "libcblas"
+        },
+        {
+            "source": "scipy",
+            "target": "liblapack"
+        },
+        {
+            "source": "h5py",
+            "target": "cached-property"
+        },
+        {
+            "source": "h5py",
+            "target": "python"
+        },
+        {
+            "source": "h5py",
+            "target": "python_abi"
+        },
+        {
+            "source": "h5py",
+            "target": "numpy"
+        },
+        {
+            "source": "h5py",
+            "target": "hdf5"
+        },
+        {
+            "source": "beautifulsoup4",
+            "target": "python"
+        },
+        {
+            "source": "beautifulsoup4",
+            "target": "soupsieve"
+        },
+        {
+            "source": "openbabel",
+            "target": "python"
+        },
+        {
+            "source": "openbabel",
+            "target": "python_abi"
+        },
+        {
+            "source": "openbabel",
+            "target": "libcxx"
+        },
+        {
+            "source": "openbabel",
+            "target": "libzlib"
+        },
+        {
+            "source": "openbabel",
+            "target": "cairo"
+        },
+        {
+            "source": "openbabel",
+            "target": "libxml2"
+        },
+        {
+            "source": "python-libsbml",
+            "target": "python"
+        },
+        {
+            "source": "python-libsbml",
+            "target": "python_abi"
+        },
+        {
+            "source": "python-libsbml",
+            "target": "libcxx"
+        },
+        {
+            "source": "xgboost",
+            "target": "python"
+        },
+        {
+            "source": "xgboost",
+            "target": "python_abi"
+        },
+        {
+            "source": "xgboost",
+            "target": "llvm-openmp"
+        },
+        {
+            "source": "xgboost",
+            "target": "py-xgboost"
+        },
+        {
+            "source": "equilibrator-api",
+            "target": "python"
+        },
+        {
+            "source": "equilibrator-api",
+            "target": "pyparsing"
+        },
+        {
+            "source": "equilibrator-api",
+            "target": "python-slugify"
+        },
+        {
+            "source": "equilibrator-api",
+            "target": "equilibrator-cache"
+        },
+        {
+            "source": "equilibrator-api",
+            "target": "component-contribution"
+        },
+        {
+            "source": "rr_cache",
+            "target": "requests"
+        },
+        {
+            "source": "rr_cache",
+            "target": "rdkit"
+        },
+        {
+            "source": "rr_cache",
+            "target": "colored"
+        },
+        {
+            "source": "rr_cache",
+            "target": "brs_utils"
+        },
+        {
+            "source": "rr_cache",
+            "target": "python"
+        },
+        {
+            "source": "cobra",
+            "target": "python"
+        },
+        {
+            "source": "cobra",
+            "target": "future"
+        },
+        {
+            "source": "cobra",
+            "target": "six"
+        },
+        {
+            "source": "cobra",
+            "target": "tabulate"
+        },
+        {
+            "source": "cobra",
+            "target": "pandas"
+        },
+        {
+            "source": "cobra",
+            "target": "numpy"
+        },
+        {
+            "source": "cobra",
+            "target": "depinfo"
+        },
+        {
+            "source": "cobra",
+            "target": "python-libsbml"
+        },
+        {
+            "source": "cobra",
+            "target": "swiglpk"
+        },
+        {
+            "source": "cobra",
+            "target": "appdirs"
+        },
+        {
+            "source": "cobra",
+            "target": "diskcache"
+        },
+        {
+            "source": "cobra",
+            "target": "httpx"
+        },
+        {
+            "source": "cobra",
+            "target": "optlang"
+        },
+        {
+            "source": "cobra",
+            "target": "pydantic"
+        },
+        {
+            "source": "cobra",
+            "target": "rich"
+        },
+        {
+            "source": "cobra",
+            "target": "ruamel.yaml"
+        },
+        {
+            "source": "rxn_rebuild",
+            "target": "brs_utils"
+        },
+        {
+            "source": "rxn_rebuild",
+            "target": "rr_cache"
+        },
+        {
+            "source": "rxn_rebuild",
+            "target": "python"
+        },
+        {
+            "source": "chemlite",
+            "target": "brs_utils"
+        },
+        {
+            "source": "chemlite",
+            "target": "python"
+        },
+        {
+            "source": "networkx",
+            "target": "python"
+        },
+        {
+            "source": "networkx",
+            "target": "numpy"
+        },
+        {
+            "source": "networkx",
+            "target": "matplotlib-base"
+        },
+        {
+            "source": "networkx",
+            "target": "pandas"
+        },
+        {
+            "source": "networkx",
+            "target": "scipy"
+        },
+        {
+            "source": "sqlalchemy",
+            "target": "importlib-metadata"
+        },
+        {
+            "source": "sqlalchemy",
+            "target": "python"
+        },
+        {
+            "source": "sqlalchemy",
+            "target": "python_abi"
+        },
+        {
+            "source": "sqlalchemy",
+            "target": "greenlet"
+        },
+        {
+            "source": "cached-property",
+            "target": "cached_property"
+        },
+        {
+            "source": "hdf5",
+            "target": "libcxx"
+        },
+        {
+            "source": "hdf5",
+            "target": "libgfortran"
+        },
+        {
+            "source": "hdf5",
+            "target": "libzlib"
+        },
+        {
+            "source": "hdf5",
+            "target": "libgfortran5"
+        },
+        {
+            "source": "hdf5",
+            "target": "openssl"
+        },
+        {
+            "source": "hdf5",
+            "target": "libcurl"
+        },
+        {
+            "source": "hdf5",
+            "target": "libaec"
+        },
+        {
+            "source": "cached_property",
+            "target": "python"
+        },
+        {
+            "source": "libcurl",
+            "target": "libzlib"
+        },
+        {
+            "source": "libcurl",
+            "target": "openssl"
+        },
+        {
+            "source": "libcurl",
+            "target": "libssh2"
+        },
+        {
+            "source": "libcurl",
+            "target": "krb5"
+        },
+        {
+            "source": "libcurl",
+            "target": "libnghttp2"
+        },
+        {
+            "source": "libaec",
+            "target": "libcxx"
+        },
+        {
+            "source": "libssh2",
+            "target": "libzlib"
+        },
+        {
+            "source": "libssh2",
+            "target": "openssl"
+        },
+        {
+            "source": "krb5",
+            "target": "libcxx"
+        },
+        {
+            "source": "krb5",
+            "target": "openssl"
+        },
+        {
+            "source": "krb5",
+            "target": "libedit"
+        },
+        {
+            "source": "libnghttp2",
+            "target": "libcxx"
+        },
+        {
+            "source": "libnghttp2",
+            "target": "libzlib"
+        },
+        {
+            "source": "libnghttp2",
+            "target": "c-ares"
+        },
+        {
+            "source": "libnghttp2",
+            "target": "openssl"
+        },
+        {
+            "source": "libnghttp2",
+            "target": "libev"
+        },
+        {
+            "source": "libedit",
+            "target": "ncurses"
+        },
+        {
+            "source": "soupsieve",
+            "target": "python"
+        },
+        {
+            "source": "py-xgboost",
+            "target": "numpy"
+        },
+        {
+            "source": "py-xgboost",
+            "target": "scipy"
+        },
+        {
+            "source": "py-xgboost",
+            "target": "scikit-learn"
+        },
+        {
+            "source": "py-xgboost",
+            "target": "python"
+        },
+        {
+            "source": "py-xgboost",
+            "target": "python_abi"
+        },
+        {
+            "source": "py-xgboost",
+            "target": "_py-xgboost-mutex"
+        },
+        {
+            "source": "py-xgboost",
+            "target": "libxgboost"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "scipy"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "threadpoolctl"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "python"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "python_abi"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "libcxx"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "numpy"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "libcblas"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "llvm-openmp"
+        },
+        {
+            "source": "scikit-learn",
+            "target": "joblib"
+        },
+        {
+            "source": "libxgboost",
+            "target": "libcxx"
+        },
+        {
+            "source": "libxgboost",
+            "target": "llvm-openmp"
+        },
+        {
+            "source": "threadpoolctl",
+            "target": "python"
+        },
+        {
+            "source": "joblib",
+            "target": "setuptools"
+        },
+        {
+            "source": "joblib",
+            "target": "python"
+        },
+        {
+            "source": "python-slugify",
+            "target": "python"
+        },
+        {
+            "source": "python-slugify",
+            "target": "unidecode"
+        },
+        {
+            "source": "python-slugify",
+            "target": "text-unidecode"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "importlib_resources"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "python-levenshtein"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "python"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "numpy"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "periodictable"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "appdirs"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "httpx"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "pyzenodo3"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "tenacity"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "scipy"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "pandas"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "pint"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "tqdm"
+        },
+        {
+            "source": "equilibrator-cache",
+            "target": "sqlalchemy"
+        },
+        {
+            "source": "component-contribution",
+            "target": "python"
+        },
+        {
+            "source": "component-contribution",
+            "target": "uncertainties"
+        },
+        {
+            "source": "component-contribution",
+            "target": "periodictable"
+        },
+        {
+            "source": "component-contribution",
+            "target": "path"
+        },
+        {
+            "source": "component-contribution",
+            "target": "appdirs"
+        },
+        {
+            "source": "component-contribution",
+            "target": "httpx"
+        },
+        {
+            "source": "component-contribution",
+            "target": "pyzenodo3"
+        },
+        {
+            "source": "component-contribution",
+            "target": "tenacity"
+        },
+        {
+            "source": "component-contribution",
+            "target": "equilibrator-cache"
+        },
+        {
+            "source": "component-contribution",
+            "target": "diskcache"
+        },
+        {
+            "source": "unidecode",
+            "target": "python"
+        },
+        {
+            "source": "text-unidecode",
+            "target": "python"
+        },
+        {
+            "source": "importlib_resources",
+            "target": "importlib_metadata"
+        },
+        {
+            "source": "importlib_resources",
+            "target": "python"
+        },
+        {
+            "source": "importlib_resources",
+            "target": "python_abi"
+        },
+        {
+            "source": "importlib_resources",
+            "target": "zipp"
+        },
+        {
+            "source": "python-levenshtein",
+            "target": "python"
+        },
+        {
+            "source": "python-levenshtein",
+            "target": "levenshtein"
+        },
+        {
+            "source": "periodictable",
+            "target": "python"
+        },
+        {
+            "source": "periodictable",
+            "target": "numpy"
+        },
+        {
+            "source": "periodictable",
+            "target": "pyparsing"
+        },
+        {
+            "source": "appdirs",
+            "target": "python"
+        },
+        {
+            "source": "httpx",
+            "target": "certifi"
+        },
+        {
+            "source": "httpx",
+            "target": "idna"
+        },
+        {
+            "source": "httpx",
+            "target": "sniffio"
+        },
+        {
+            "source": "httpx",
+            "target": "python"
+        },
+        {
+            "source": "httpx",
+            "target": "python_abi"
+        },
+        {
+            "source": "httpx",
+            "target": "rfc3986"
+        },
+        {
+            "source": "httpx",
+            "target": "httpcore"
+        },
+        {
+            "source": "pyzenodo3",
+            "target": "requests"
+        },
+        {
+            "source": "pyzenodo3",
+            "target": "beautifulsoup4"
+        },
+        {
+            "source": "pyzenodo3",
+            "target": "python"
+        },
+        {
+            "source": "tenacity",
+            "target": "python"
+        },
+        {
+            "source": "tenacity",
+            "target": "six"
+        },
+        {
+            "source": "pint",
+            "target": "packaging"
+        },
+        {
+            "source": "pint",
+            "target": "importlib_metadata"
+        },
+        {
+            "source": "pint",
+            "target": "python"
+        },
+        {
+            "source": "tqdm",
+            "target": "colorama"
+        },
+        {
+            "source": "tqdm",
+            "target": "python"
+        },
+        {
+            "source": "importlib_metadata",
+            "target": "importlib-metadata"
+        },
+        {
+            "source": "zipp",
+            "target": "python"
+        },
+        {
+            "source": "zipp",
+            "target": "more-itertools"
+        },
+        {
+            "source": "importlib-metadata",
+            "target": "python"
+        },
+        {
+            "source": "importlib-metadata",
+            "target": "python_abi"
+        },
+        {
+            "source": "importlib-metadata",
+            "target": "zipp"
+        },
+        {
+            "source": "importlib-metadata",
+            "target": "typing_extensions"
+        },
+        {
+            "source": "typing_extensions",
+            "target": "python"
+        },
+        {
+            "source": "more-itertools",
+            "target": "python"
+        },
+        {
+            "source": "levenshtein",
+            "target": "python"
+        },
+        {
+            "source": "levenshtein",
+            "target": "python_abi"
+        },
+        {
+            "source": "levenshtein",
+            "target": "libcxx"
+        },
+        {
+            "source": "levenshtein",
+            "target": "rapidfuzz"
+        },
+        {
+            "source": "rapidfuzz",
+            "target": "numpy"
+        },
+        {
+            "source": "rapidfuzz",
+            "target": "jarowinkler"
+        },
+        {
+            "source": "rapidfuzz",
+            "target": "python"
+        },
+        {
+            "source": "rapidfuzz",
+            "target": "python_abi"
+        },
+        {
+            "source": "rapidfuzz",
+            "target": "libcxx"
+        },
+        {
+            "source": "jarowinkler",
+            "target": "python"
+        },
+        {
+            "source": "jarowinkler",
+            "target": "python_abi"
+        },
+        {
+            "source": "jarowinkler",
+            "target": "libcxx"
+        },
+        {
+            "source": "sniffio",
+            "target": "python"
+        },
+        {
+            "source": "rfc3986",
+            "target": "python"
+        },
+        {
+            "source": "httpcore",
+            "target": "certifi"
+        },
+        {
+            "source": "httpcore",
+            "target": "python"
+        },
+        {
+            "source": "httpcore",
+            "target": "sniffio"
+        },
+        {
+            "source": "httpcore",
+            "target": "h2"
+        },
+        {
+            "source": "httpcore",
+            "target": "h11"
+        },
+        {
+            "source": "httpcore",
+            "target": "anyio"
+        },
+        {
+            "source": "h2",
+            "target": "python"
+        },
+        {
+            "source": "h2",
+            "target": "hpack"
+        },
+        {
+            "source": "h2",
+            "target": "hyperframe"
+        },
+        {
+            "source": "h11",
+            "target": "python"
+        },
+        {
+            "source": "anyio",
+            "target": "typing_extensions"
+        },
+        {
+            "source": "anyio",
+            "target": "python"
+        },
+        {
+            "source": "anyio",
+            "target": "idna"
+        },
+        {
+            "source": "anyio",
+            "target": "sniffio"
+        },
+        {
+            "source": "hpack",
+            "target": "python"
+        },
+        {
+            "source": "hyperframe",
+            "target": "python"
+        },
+        {
+            "source": "packaging",
+            "target": "python"
+        },
+        {
+            "source": "colorama",
+            "target": "python"
+        },
+        {
+            "source": "greenlet",
+            "target": "python"
+        },
+        {
+            "source": "greenlet",
+            "target": "python_abi"
+        },
+        {
+            "source": "greenlet",
+            "target": "libcxx"
+        },
+        {
+            "source": "uncertainties",
+            "target": "numpy"
+        },
+        {
+            "source": "uncertainties",
+            "target": "future"
+        },
+        {
+            "source": "uncertainties",
+            "target": "python"
+        },
+        {
+            "source": "path",
+            "target": "python"
+        },
+        {
+            "source": "path",
+            "target": "python_abi"
+        },
+        {
+            "source": "path",
+            "target": "importlib_metadata"
+        },
+        {
+            "source": "diskcache",
+            "target": "python"
+        },
+        {
+            "source": "future",
+            "target": "python"
+        },
+        {
+            "source": "future",
+            "target": "python_abi"
+        },
+        {
+            "source": "tabulate",
+            "target": "python"
+        },
+        {
+            "source": "depinfo",
+            "target": "pip"
+        },
+        {
+            "source": "depinfo",
+            "target": "importlib_metadata"
+        },
+        {
+            "source": "depinfo",
+            "target": "python"
+        },
+        {
+            "source": "swiglpk",
+            "target": "python"
+        },
+        {
+            "source": "swiglpk",
+            "target": "python_abi"
+        },
+        {
+            "source": "swiglpk",
+            "target": "glpk"
+        },
+        {
+            "source": "optlang",
+            "target": "python"
+        },
+        {
+            "source": "optlang",
+            "target": "six"
+        },
+        {
+            "source": "optlang",
+            "target": "sympy"
+        },
+        {
+            "source": "optlang",
+            "target": "swiglpk"
+        },
+        {
+            "source": "pydantic",
+            "target": "python"
+        },
+        {
+            "source": "pydantic",
+            "target": "python_abi"
+        },
+        {
+            "source": "pydantic",
+            "target": "typing-extensions"
+        },
+        {
+            "source": "rich",
+            "target": "python"
+        },
+        {
+            "source": "rich",
+            "target": "typing_extensions"
+        },
+        {
+            "source": "rich",
+            "target": "pygments"
+        },
+        {
+            "source": "rich",
+            "target": "markdown-it-py"
+        },
+        {
+            "source": "ruamel.yaml",
+            "target": "setuptools"
+        },
+        {
+            "source": "ruamel.yaml",
+            "target": "python"
+        },
+        {
+            "source": "ruamel.yaml",
+            "target": "python_abi"
+        },
+        {
+            "source": "ruamel.yaml",
+            "target": "ruamel.yaml.clib"
+        },
+        {
+            "source": "glpk",
+            "target": "gmp"
+        },
+        {
+            "source": "gmp",
+            "target": "libcxx"
+        },
+        {
+            "source": "sympy",
+            "target": "python"
+        },
+        {
+            "source": "sympy",
+            "target": "python_abi"
+        },
+        {
+            "source": "sympy",
+            "target": "mpmath"
+        },
+        {
+            "source": "sympy",
+            "target": "gmpy2"
+        },
+        {
+            "source": "mpmath",
+            "target": "python"
+        },
+        {
+            "source": "gmpy2",
+            "target": "python"
+        },
+        {
+            "source": "gmpy2",
+            "target": "python_abi"
+        },
+        {
+            "source": "gmpy2",
+            "target": "gmp"
+        },
+        {
+            "source": "gmpy2",
+            "target": "mpfr"
+        },
+        {
+            "source": "gmpy2",
+            "target": "mpc"
+        },
+        {
+            "source": "mpfr",
+            "target": "gmp"
+        },
+        {
+            "source": "mpc",
+            "target": "gmp"
+        },
+        {
+            "source": "mpc",
+            "target": "mpfr"
+        },
+        {
+            "source": "typing-extensions",
+            "target": "typing_extensions"
+        },
+        {
+            "source": "pygments",
+            "target": "setuptools"
+        },
+        {
+            "source": "pygments",
+            "target": "python"
+        },
+        {
+            "source": "markdown-it-py",
+            "target": "python"
+        },
+        {
+            "source": "markdown-it-py",
+            "target": "typing_extensions"
+        },
+        {
+            "source": "markdown-it-py",
+            "target": "mdurl"
+        },
+        {
+            "source": "mdurl",
+            "target": "python"
+        },
+        {
+            "source": "ruamel.yaml.clib",
+            "target": "python"
+        },
+        {
+            "source": "ruamel.yaml.clib",
+            "target": "python_abi"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "python"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "python_abi"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "libcxx"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "numpy"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "packaging"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "freetype"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "cycler"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "pillow"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "certifi"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "kiwisolver"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "python-dateutil"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "pyparsing"
+        },
+        {
+            "source": "matplotlib-base",
+            "target": "fonttools"
+        },
+        {
+            "source": "cycler",
+            "target": "python"
+        },
+        {
+            "source": "kiwisolver",
+            "target": "typing-extensions"
+        },
+        {
+            "source": "kiwisolver",
+            "target": "python"
+        },
+        {
+            "source": "kiwisolver",
+            "target": "python_abi"
+        },
+        {
+            "source": "kiwisolver",
+            "target": "libcxx"
+        },
+        {
+            "source": "fonttools",
+            "target": "brotli"
+        },
+        {
+            "source": "fonttools",
+            "target": "munkres"
+        },
+        {
+            "source": "fonttools",
+            "target": "python"
+        },
+        {
+            "source": "fonttools",
+            "target": "python_abi"
+        },
+        {
+            "source": "fonttools",
+            "target": "unicodedata2"
+        },
+        {
+            "source": "brotli",
+            "target": "libbrotlidec"
+        },
+        {
+            "source": "brotli",
+            "target": "libbrotlienc"
+        },
+        {
+            "source": "brotli",
+            "target": "brotli-bin"
+        },
+        {
+            "source": "munkres",
+            "target": "python"
+        },
+        {
+            "source": "unicodedata2",
+            "target": "python"
+        },
+        {
+            "source": "unicodedata2",
+            "target": "python_abi"
+        },
+        {
+            "source": "libbrotlidec",
+            "target": "libbrotlicommon"
+        },
+        {
+            "source": "libbrotlienc",
+            "target": "libbrotlicommon"
+        },
+        {
+            "source": "brotli-bin",
+            "target": "libbrotlidec"
+        },
+        {
+            "source": "brotli-bin",
+            "target": "libbrotlienc"
+        },
+        {
+            "source": "selenzy_wrapper",
+            "target": "emboss"
+        },
+        {
+            "source": "selenzy_wrapper",
+            "target": "brs_utils"
+        },
+        {
+            "source": "selenzy_wrapper",
+            "target": "rptools"
+        },
+        {
+            "source": "selenzy_wrapper",
+            "target": "python"
+        },
+        {
+            "source": "selenzy_wrapper",
+            "target": "biopython"
+        },
+        {
+            "source": "emboss",
+            "target": "libgd"
+        },
+        {
+            "source": "emboss",
+            "target": "zlib"
+        },
+        {
+            "source": "emboss",
+            "target": "libpng"
+        },
+        {
+            "source": "biopython",
+            "target": "numpy"
+        },
+        {
+            "source": "biopython",
+            "target": "python"
+        },
+        {
+            "source": "biopython",
+            "target": "python_abi"
+        },
+        {
+            "source": "rpbasicdesign",
+            "target": "rptools"
+        },
+        {
+            "source": "rpbasicdesign",
+            "target": "pysbol2"
+        },
+        {
+            "source": "rpbasicdesign",
+            "target": "python"
+        },
+        {
+            "source": "rpbasicdesign",
+            "target": "numpy"
+        },
+        {
+            "source": "pysbol2",
+            "target": "requests"
+        },
+        {
+            "source": "pysbol2",
+            "target": "python-dateutil"
+        },
+        {
+            "source": "pysbol2",
+            "target": "lxml"
+        },
+        {
+            "source": "pysbol2",
+            "target": "urllib3"
+        },
+        {
+            "source": "pysbol2",
+            "target": "deprecated"
+        },
+        {
+            "source": "pysbol2",
+            "target": "python"
+        },
+        {
+            "source": "pysbol2",
+            "target": "packaging"
+        },
+        {
+            "source": "pysbol2",
+            "target": "rdflib"
+        },
+        {
+            "source": "deprecated",
+            "target": "python"
+        },
+        {
+            "source": "deprecated",
+            "target": "wrapt"
+        },
+        {
+            "source": "rdflib",
+            "target": "setuptools"
+        },
+        {
+            "source": "rdflib",
+            "target": "importlib-metadata"
+        },
+        {
+            "source": "rdflib",
+            "target": "pyparsing"
+        },
+        {
+            "source": "rdflib",
+            "target": "html5lib"
+        },
+        {
+            "source": "rdflib",
+            "target": "isodate"
+        },
+        {
+            "source": "rdflib",
+            "target": "python"
+        },
+        {
+            "source": "wrapt",
+            "target": "python"
+        },
+        {
+            "source": "wrapt",
+            "target": "python_abi"
+        },
+        {
+            "source": "html5lib",
+            "target": "python"
+        },
+        {
+            "source": "html5lib",
+            "target": "webencodings"
+        },
+        {
+            "source": "html5lib",
+            "target": "six"
+        },
+        {
+            "source": "isodate",
+            "target": "six"
+        },
+        {
+            "source": "isodate",
+            "target": "python"
+        },
+        {
+            "source": "webencodings",
+            "target": "python"
+        },
+        {
+            "source": "dnabot",
+            "target": "numpy"
+        },
+        {
+            "source": "dnabot",
+            "target": "pandas"
+        },
+        {
+            "source": "dnabot",
+            "target": "pyyaml"
+        },
+        {
+            "source": "dnabot",
+            "target": "six"
+        },
+        {
+            "source": "dnabot",
+            "target": "importlib-metadata"
+        },
+        {
+            "source": "dnabot",
+            "target": "jsonschema"
+        },
+        {
+            "source": "dnabot",
+            "target": "yarl"
+        },
+        {
+            "source": "dnabot",
+            "target": "idna"
+        },
+        {
+            "source": "dnabot",
+            "target": "multidict"
+        },
+        {
+            "source": "dnabot",
+            "target": "xorg-libx11"
+        },
+        {
+            "source": "dnabot",
+            "target": "urwid"
+        },
+        {
+            "source": "dnabot",
+            "target": "pyrsistent"
+        },
+        {
+            "source": "dnabot",
+            "target": "aiohttp"
+        },
+        {
+            "source": "dnabot",
+            "target": "async-timeout"
+        },
+        {
+            "source": "dnabot",
+            "target": "attrs"
+        },
+        {
+            "source": "dnabot",
+            "target": "chardet"
+        },
+        {
+            "source": "dnabot",
+            "target": "more-itertools"
+        },
+        {
+            "source": "dnabot",
+            "target": "pyserial"
+        },
+        {
+            "source": "dnabot",
+            "target": "python"
+        },
+        {
+            "source": "dnabot",
+            "target": "python-dateutil"
+        },
+        {
+            "source": "dnabot",
+            "target": "pytz"
+        },
+        {
+            "source": "dnabot",
+            "target": "zipp"
+        },
+        {
+            "source": "pyyaml",
+            "target": "python"
+        },
+        {
+            "source": "pyyaml",
+            "target": "python_abi"
+        },
+        {
+            "source": "pyyaml",
+            "target": "yaml"
+        },
+        {
+            "source": "jsonschema",
+            "target": "typing_extensions"
+        },
+        {
+            "source": "jsonschema",
+            "target": "importlib-metadata"
+        },
+        {
+            "source": "jsonschema",
+            "target": "python"
+        },
+        {
+            "source": "jsonschema",
+            "target": "attrs"
+        },
+        {
+            "source": "jsonschema",
+            "target": "pyrsistent"
+        },
+        {
+            "source": "jsonschema",
+            "target": "importlib_resources"
+        },
+        {
+            "source": "jsonschema",
+            "target": "pkgutil-resolve-name"
+        },
+        {
+            "source": "yarl",
+            "target": "python"
+        },
+        {
+            "source": "yarl",
+            "target": "python_abi"
+        },
+        {
+            "source": "yarl",
+            "target": "typing-extensions"
+        },
+        {
+            "source": "yarl",
+            "target": "idna"
+        },
+        {
+            "source": "yarl",
+            "target": "multidict"
+        },
+        {
+            "source": "multidict",
+            "target": "python"
+        },
+        {
+            "source": "multidict",
+            "target": "python_abi"
+        },
+        {
+            "source": "xorg-libx11",
+            "target": "xorg-xproto"
+        },
+        {
+            "source": "xorg-libx11",
+            "target": "xorg-kbproto"
+        },
+        {
+            "source": "xorg-libx11",
+            "target": "libxcb"
+        },
+        {
+            "source": "xorg-libx11",
+            "target": "xorg-xextproto"
+        },
+        {
+            "source": "urwid",
+            "target": "python"
+        },
+        {
+            "source": "urwid",
+            "target": "python_abi"
+        },
+        {
+            "source": "pyrsistent",
+            "target": "python"
+        },
+        {
+            "source": "pyrsistent",
+            "target": "python_abi"
+        },
+        {
+            "source": "aiohttp",
+            "target": "python"
+        },
+        {
+            "source": "aiohttp",
+            "target": "python_abi"
+        },
+        {
+            "source": "aiohttp",
+            "target": "attrs"
+        },
+        {
+            "source": "aiohttp",
+            "target": "yarl"
+        },
+        {
+            "source": "aiohttp",
+            "target": "async-timeout"
+        },
+        {
+            "source": "aiohttp",
+            "target": "typing-extensions"
+        },
+        {
+            "source": "aiohttp",
+            "target": "multidict"
+        },
+        {
+            "source": "aiohttp",
+            "target": "chardet"
+        },
+        {
+            "source": "async-timeout",
+            "target": "python"
+        },
+        {
+            "source": "attrs",
+            "target": "python"
+        },
+        {
+            "source": "chardet",
+            "target": "python"
+        },
+        {
+            "source": "chardet",
+            "target": "python_abi"
+        },
+        {
+            "source": "pyserial",
+            "target": "python"
+        },
+        {
+            "source": "pkgutil-resolve-name",
+            "target": "python"
+        }
+    ]
+}

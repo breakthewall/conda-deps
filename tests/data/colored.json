@@ -1,0 +1,194 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "version": "8.6.12",
+            "license": "TCL",
+            "id": "tk"
+        },
+        {
+            "version": "1.2.13",
+            "license": "Zlib",
+            "id": "libzlib"
+        },
+        {
+            "version": "1.4.4",
+            "license": "MIT",
+            "id": "colored"
+        },
+        {
+            "version": "3.7.12",
+            "license": "BSD-3-Clause",
+            "id": "python"
+        },
+        {
+            "version": "23.0.1",
+            "license": "MIT",
+            "id": "pip"
+        },
+        {
+            "version": "15.0.7",
+            "license": "Apache-2.0 WITH LLVM-exception",
+            "id": "libcxx"
+        },
+        {
+            "version": "6.3",
+            "license": "X11 AND BSD-3-Clause",
+            "id": "ncurses"
+        },
+        {
+            "version": "5.2.6",
+            "license": "LGPL-2.1 and GPL-2.0",
+            "id": "xz"
+        },
+        {
+            "version": "8.1.2",
+            "license": "GPL-3.0-only",
+            "id": "readline"
+        },
+        {
+            "version": "3.0.8",
+            "license": "Apache-2.0",
+            "id": "openssl"
+        },
+        {
+            "version": "3.4.2",
+            "license": "MIT",
+            "id": "libffi"
+        },
+        {
+            "version": "3.40.0",
+            "license": "blessing",
+            "id": "sqlite"
+        },
+        {
+            "version": "59.8.0",
+            "license": "MIT",
+            "id": "setuptools"
+        },
+        {
+            "version": "0.38.4",
+            "license": "MIT",
+            "id": "wheel"
+        },
+        {
+            "version": "3.7",
+            "license": "BSD-3-Clause",
+            "id": "python_abi"
+        },
+        {
+            "version": "2022.12.7",
+            "license": "ISC",
+            "id": "ca-certificates"
+        },
+        {
+            "version": "3.40.0",
+            "license": "Unlicense",
+            "id": "libsqlite"
+        }
+    ],
+    "links": [
+        {
+            "source": "tk",
+            "target": "libzlib"
+        },
+        {
+            "source": "colored",
+            "target": "python"
+        },
+        {
+            "source": "python",
+            "target": "pip"
+        },
+        {
+            "source": "python",
+            "target": "libcxx"
+        },
+        {
+            "source": "python",
+            "target": "ncurses"
+        },
+        {
+            "source": "python",
+            "target": "libzlib"
+        },
+        {
+            "source": "python",
+            "target": "xz"
+        },
+        {
+            "source": "python",
+            "target": "readline"
+        },
+        {
+            "source": "python",
+            "target": "openssl"
+        },
+        {
+            "source": "python",
+            "target": "libffi"
+        },
+        {
+            "source": "python",
+            "target": "sqlite"
+        },
+        {
+            "source": "python",
+            "target": "tk"
+        },
+        {
+            "source": "pip",
+            "target": "setuptools"
+        },
+        {
+            "source": "pip",
+            "target": "wheel"
+        },
+        {
+            "source": "pip",
+            "target": "python"
+        },
+        {
+            "source": "readline",
+            "target": "ncurses"
+        },
+        {
+            "source": "openssl",
+            "target": "ca-certificates"
+        },
+        {
+            "source": "sqlite",
+            "target": "libzlib"
+        },
+        {
+            "source": "sqlite",
+            "target": "ncurses"
+        },
+        {
+            "source": "sqlite",
+            "target": "readline"
+        },
+        {
+            "source": "sqlite",
+            "target": "libsqlite"
+        },
+        {
+            "source": "setuptools",
+            "target": "python"
+        },
+        {
+            "source": "setuptools",
+            "target": "python_abi"
+        },
+        {
+            "source": "wheel",
+            "target": "python"
+        },
+        {
+            "source": "libsqlite",
+            "target": "libzlib"
+        }
+    ]
+}

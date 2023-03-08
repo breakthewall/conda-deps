@@ -1,0 +1,561 @@
+{
+    "rp2paths": {
+        "version": "1.5.0",
+        "depends": [
+            "graphviz",
+            "lxml",
+            "openjdk",
+            "pandas",
+            "pydotplus",
+            "python",
+            "python-graphviz",
+            "rdkit"
+        ],
+        "license": "MIT"
+    },
+    "graphviz": {
+        "version": "2.42.3",
+        "depends": [
+            "freetype",
+            "jpeg",
+            "libcxx",
+            "libpng",
+            "libtiff",
+            "zlib"
+        ],
+        "license": "EPL-1.0"
+    },
+    "freetype": {
+        "version": "2.12.1",
+        "depends": [
+            "libpng",
+            "libzlib"
+        ],
+        "license": "GPL-2.0-only and LicenseRef-FreeType"
+    },
+    "libpng": {
+        "version": "1.6.39",
+        "depends": [
+            "libzlib"
+        ],
+        "license": "zlib-acknowledgement"
+    },
+    "libzlib": {
+        "version": "1.2.13",
+        "depends": [],
+        "license": "Zlib"
+    },
+    "jpeg": {
+        "version": "9e",
+        "depends": [],
+        "license": "IJG"
+    },
+    "libcxx": {
+        "version": "14.0.6",
+        "depends": [],
+        "license": "Apache-2.0 WITH LLVM-exception"
+    },
+    "libtiff": {
+        "version": "4.4.0",
+        "depends": [
+            "jpeg",
+            "lerc",
+            "libcxx",
+            "libdeflate",
+            "libwebp-base",
+            "libzlib",
+            "xz",
+            "zstd"
+        ],
+        "license": "HPND"
+    },
+    "lerc": {
+        "version": "4.0.0",
+        "depends": [
+            "libcxx"
+        ],
+        "license": "Apache-2.0"
+    },
+    "libdeflate": {
+        "version": "1.14",
+        "depends": [],
+        "license": "MIT"
+    },
+    "libwebp-base": {
+        "version": "1.2.4",
+        "depends": [],
+        "license": "BSD-3-Clause"
+    },
+    "xz": {
+        "version": "5.2.6",
+        "depends": [],
+        "license": "LGPL-2.1 and GPL-2.0"
+    },
+    "zstd": {
+        "version": "1.5.2",
+        "depends": [
+            "libcxx",
+            "libzlib"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "zlib": {
+        "version": "1.2.13",
+        "depends": [
+            "libzlib"
+        ],
+        "license": "Zlib"
+    },
+    "lxml": {
+        "version": "4.4.1",
+        "depends": [
+            "libxml2",
+            "libxslt",
+            "python"
+        ],
+        "license": "BSD 3-Clause, GPL-2.0, ZPL-2.0, and ElementTree"
+    },
+    "libxml2": {
+        "version": "2.9.9",
+        "depends": [
+            "icu",
+            "libiconv",
+            "xz",
+            "zlib"
+        ],
+        "license": "MIT"
+    },
+    "icu": {
+        "version": "58.2",
+        "depends": [
+            "libcxx"
+        ],
+        "license": "MIT"
+    },
+    "libiconv": {
+        "version": "1.17",
+        "depends": [],
+        "license": "GPL and LGPL"
+    },
+    "libxslt": {
+        "version": "1.1.32",
+        "depends": [
+            "icu",
+            "libxml2"
+        ],
+        "license": "MIT"
+    },
+    "python": {
+        "version": "3.7.12",
+        "depends": [
+            "libcxx",
+            "libffi",
+            "libzlib",
+            "ncurses",
+            "openssl",
+            "readline",
+            "sqlite",
+            "tk",
+            "xz",
+            "pip"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "libffi": {
+        "version": "3.4.2",
+        "depends": [],
+        "license": "MIT"
+    },
+    "ncurses": {
+        "version": "6.3",
+        "depends": [],
+        "license": "X11 AND BSD-3-Clause"
+    },
+    "openssl": {
+        "version": "3.0.8",
+        "depends": [
+            "ca-certificates"
+        ],
+        "license": "Apache-2.0"
+    },
+    "ca-certificates": {
+        "version": "2022.12.7",
+        "depends": [],
+        "license": "ISC"
+    },
+    "readline": {
+        "version": "8.1.2",
+        "depends": [
+            "ncurses"
+        ],
+        "license": "GPL-3.0-only"
+    },
+    "sqlite": {
+        "version": "3.40.0",
+        "depends": [
+            "libsqlite",
+            "libzlib",
+            "ncurses",
+            "readline"
+        ],
+        "license": "blessing"
+    },
+    "libsqlite": {
+        "version": "3.40.0",
+        "depends": [
+            "libzlib"
+        ],
+        "license": "Unlicense"
+    },
+    "tk": {
+        "version": "8.6.12",
+        "depends": [
+            "libzlib"
+        ],
+        "license": "TCL"
+    },
+    "pip": {
+        "version": "23.0.1",
+        "depends": [
+            "python",
+            "setuptools",
+            "wheel"
+        ],
+        "license": "MIT"
+    },
+    "setuptools": {
+        "version": "59.8.0",
+        "depends": [
+            "python",
+            "python_abi"
+        ],
+        "license": "MIT"
+    },
+    "python_abi": {
+        "version": "3.7",
+        "depends": [],
+        "license": "BSD-3-Clause"
+    },
+    "wheel": {
+        "version": "0.38.4",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "openjdk": {
+        "version": "17.0.3",
+        "depends": [
+            "libcxx",
+            "libzlib"
+        ],
+        "license": "GPL-2.0-or-later WITH Classpath-exception-2.0"
+    },
+    "pandas": {
+        "version": "1.3.5",
+        "depends": [
+            "libcxx",
+            "numpy",
+            "python",
+            "python-dateutil",
+            "python_abi",
+            "pytz",
+            "setuptools"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "numpy": {
+        "version": "1.21.6",
+        "depends": [
+            "libblas",
+            "libcblas",
+            "libcxx",
+            "liblapack",
+            "python",
+            "python_abi"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "libblas": {
+        "version": "3.9.0",
+        "depends": [
+            "libopenblas"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "libopenblas": {
+        "version": "0.3.21",
+        "depends": [
+            "libgfortran",
+            "libgfortran5",
+            "llvm-openmp"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "libgfortran": {
+        "version": "5.0.0",
+        "depends": [
+            "libgfortran5"
+        ],
+        "license": "GPL-3.0-only WITH GCC-exception-3.1"
+    },
+    "libgfortran5": {
+        "version": "11.3.0",
+        "depends": [
+            "llvm-openmp"
+        ],
+        "license": "GPL-3.0-only WITH GCC-exception-3.1"
+    },
+    "llvm-openmp": {
+        "version": "15.0.7",
+        "depends": [],
+        "license": "Apache-2.0 WITH LLVM-exception"
+    },
+    "libcblas": {
+        "version": "3.9.0",
+        "depends": [
+            "libblas"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "liblapack": {
+        "version": "3.9.0",
+        "depends": [
+            "libblas"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "python-dateutil": {
+        "version": "2.8.2",
+        "depends": [
+            "python",
+            "six"
+        ],
+        "license": "BSD-3-Clause and Apache"
+    },
+    "six": {
+        "version": "1.16.0",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "pytz": {
+        "version": "2022.7.1",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "pydotplus": {
+        "version": "2.0.2",
+        "depends": [
+            "graphviz",
+            "pyparsing",
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "pyparsing": {
+        "version": "3.0.9",
+        "depends": [
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "python-graphviz": {
+        "version": "0.16",
+        "depends": [
+            "graphviz",
+            "python"
+        ],
+        "license": "MIT"
+    },
+    "rdkit": {
+        "version": "2019.03.1",
+        "depends": [
+            "boost",
+            "cairo",
+            "freetype",
+            "libcxx",
+            "numpy",
+            "pandas",
+            "pillow",
+            "pycairo",
+            "python",
+            "six"
+        ],
+        "license": "BSD 3-Clause"
+    },
+    "boost": {
+        "version": "1.68.0",
+        "depends": [
+            "boost-cpp",
+            "libcxx",
+            "numpy",
+            "python"
+        ],
+        "license": "Boost-1.0"
+    },
+    "boost-cpp": {
+        "version": "1.68.0",
+        "depends": [
+            "bzip2",
+            "icu",
+            "libcxx",
+            "xz",
+            "zlib"
+        ],
+        "license": "Boost-1.0"
+    },
+    "bzip2": {
+        "version": "1.0.8",
+        "depends": [],
+        "license": "bzip2"
+    },
+    "cairo": {
+        "version": "1.16.0",
+        "depends": [
+            "fontconfig",
+            "freetype",
+            "glib",
+            "icu",
+            "libpng",
+            "pixman",
+            "zlib"
+        ],
+        "license": "LGPL 2.1 or MPL 1.1"
+    },
+    "fontconfig": {
+        "version": "2.13.1",
+        "depends": [
+            "freetype",
+            "icu",
+            "libiconv",
+            "libpng",
+            "libxml2"
+        ],
+        "license": "MIT"
+    },
+    "glib": {
+        "version": "2.74.1",
+        "depends": [
+            "gettext",
+            "glib-tools",
+            "libcxx",
+            "libglib",
+            "libzlib",
+            "python"
+        ],
+        "license": "LGPL-2.1-or-later"
+    },
+    "gettext": {
+        "version": "0.21.1",
+        "depends": [
+            "libiconv"
+        ],
+        "license": "LGPL-2.1-or-later AND GPL-3.0-or-later"
+    },
+    "glib-tools": {
+        "version": "2.74.1",
+        "depends": [
+            "libcxx",
+            "libglib",
+            "libzlib"
+        ],
+        "license": "LGPL-2.1-or-later"
+    },
+    "libglib": {
+        "version": "2.74.1",
+        "depends": [
+            "gettext",
+            "libcxx",
+            "libffi",
+            "libiconv",
+            "libzlib",
+            "pcre2"
+        ],
+        "license": "LGPL-2.1-or-later"
+    },
+    "pcre2": {
+        "version": "10.40",
+        "depends": [
+            "bzip2",
+            "libzlib"
+        ],
+        "license": "BSD-3-Clause"
+    },
+    "pixman": {
+        "version": "0.38.0",
+        "depends": [],
+        "license": "MIT"
+    },
+    "pillow": {
+        "version": "9.2.0",
+        "depends": [
+            "freetype",
+            "jpeg",
+            "lcms2",
+            "libtiff",
+            "libwebp-base",
+            "libxcb",
+            "libzlib",
+            "openjpeg",
+            "python",
+            "python_abi",
+            "tk"
+        ],
+        "license": "LicenseRef-PIL"
+    },
+    "lcms2": {
+        "version": "2.14",
+        "depends": [
+            "jpeg",
+            "libtiff"
+        ],
+        "license": "MIT"
+    },
+    "libxcb": {
+        "version": "1.13",
+        "depends": [
+            "pthread-stubs",
+            "xorg-libxau",
+            "xorg-libxdmcp"
+        ],
+        "license": "MIT"
+    },
+    "pthread-stubs": {
+        "version": "0.4",
+        "depends": [],
+        "license": "MIT"
+    },
+    "xorg-libxau": {
+        "version": "1.0.9",
+        "depends": [],
+        "license": "MIT"
+    },
+    "xorg-libxdmcp": {
+        "version": "1.1.3",
+        "depends": [],
+        "license": "MIT"
+    },
+    "openjpeg": {
+        "version": "2.5.0",
+        "depends": [
+            "libcxx",
+            "libpng",
+            "libtiff",
+            "libzlib"
+        ],
+        "license": "BSD-2-Clause"
+    },
+    "pycairo": {
+        "version": "1.21.0",
+        "depends": [
+            "cairo",
+            "python",
+            "python_abi"
+        ],
+        "license": "LGPL-2.1-only OR MPL-1.1"
+    }
+}
