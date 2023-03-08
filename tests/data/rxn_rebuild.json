@@ -1,0 +1,1125 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "version": "3.0.3",
+            "license": "MIT",
+            "id": "rxn_rebuild"
+        },
+        {
+            "version": "1.21.0",
+            "license": "MIT",
+            "id": "brs_utils"
+        },
+        {
+            "version": "2.0.1",
+            "license": "MIT",
+            "id": "rr_cache"
+        },
+        {
+            "version": "3.7.12",
+            "license": "BSD-3-Clause",
+            "id": "python"
+        },
+        {
+            "version": "2.28.2",
+            "license": "Apache-2.0",
+            "id": "requests"
+        },
+        {
+            "version": "6.7.0",
+            "license": "MIT",
+            "id": "colorlog"
+        },
+        {
+            "version": "1.4.4",
+            "license": "MIT",
+            "id": "colored"
+        },
+        {
+            "version": "3.4",
+            "license": "BSD-3-Clause",
+            "id": "idna"
+        },
+        {
+            "version": "2022.12.7",
+            "license": "MPL-2.0",
+            "id": "certifi"
+        },
+        {
+            "version": "1.26.14",
+            "license": "MIT",
+            "id": "urllib3"
+        },
+        {
+            "version": "2.1.1",
+            "license": "MIT",
+            "id": "charset-normalizer"
+        },
+        {
+            "version": "23.0.1",
+            "license": "MIT",
+            "id": "pip"
+        },
+        {
+            "version": "15.0.7",
+            "license": "Apache-2.0 WITH LLVM-exception",
+            "id": "libcxx"
+        },
+        {
+            "version": "6.3",
+            "license": "X11 AND BSD-3-Clause",
+            "id": "ncurses"
+        },
+        {
+            "version": "1.2.13",
+            "license": "Zlib",
+            "id": "libzlib"
+        },
+        {
+            "version": "5.2.6",
+            "license": "LGPL-2.1 and GPL-2.0",
+            "id": "xz"
+        },
+        {
+            "version": "8.1.2",
+            "license": "GPL-3.0-only",
+            "id": "readline"
+        },
+        {
+            "version": "3.0.8",
+            "license": "Apache-2.0",
+            "id": "openssl"
+        },
+        {
+            "version": "3.4.2",
+            "license": "MIT",
+            "id": "libffi"
+        },
+        {
+            "version": "3.40.0",
+            "license": "blessing",
+            "id": "sqlite"
+        },
+        {
+            "version": "8.6.12",
+            "license": "TCL",
+            "id": "tk"
+        },
+        {
+            "version": "59.8.0",
+            "license": "MIT",
+            "id": "setuptools"
+        },
+        {
+            "version": "0.38.4",
+            "license": "MIT",
+            "id": "wheel"
+        },
+        {
+            "version": "3.7",
+            "license": "BSD-3-Clause",
+            "id": "python_abi"
+        },
+        {
+            "version": "2022.12.7",
+            "license": "ISC",
+            "id": "ca-certificates"
+        },
+        {
+            "version": "3.40.0",
+            "license": "Unlicense",
+            "id": "libsqlite"
+        },
+        {
+            "version": "23.0.0",
+            "license": "Apache-2.0",
+            "id": "pyopenssl"
+        },
+        {
+            "version": "38.0.2",
+            "license": "Apache-2.0 AND BSD-3-Clause AND PSF-2.0 AND MIT",
+            "id": "cryptography"
+        },
+        {
+            "version": "1.7.1",
+            "license": "BSD 3-Clause",
+            "id": "pysocks"
+        },
+        {
+            "version": "0.7.0",
+            "license": "MIT",
+            "id": "brotlipy"
+        },
+        {
+            "version": "1.15.1",
+            "license": "BSD-3-Clause",
+            "id": "cffi"
+        },
+        {
+            "version": "2.21",
+            "license": "BSD-3-clause",
+            "id": "pycparser"
+        },
+        {
+            "version": "2019.03.1",
+            "license": "BSD 3-Clause",
+            "id": "rdkit"
+        },
+        {
+            "version": "1.16.0",
+            "license": "MIT",
+            "id": "six"
+        },
+        {
+            "version": "1.3.5",
+            "license": "BSD-3-Clause",
+            "id": "pandas"
+        },
+        {
+            "version": "9.2.0",
+            "license": "LicenseRef-PIL",
+            "id": "pillow"
+        },
+        {
+            "version": "1.21.0",
+            "license": "LGPL-2.1-only OR MPL-1.1",
+            "id": "pycairo"
+        },
+        {
+            "version": "1.21.6",
+            "license": "BSD-3-Clause",
+            "id": "numpy"
+        },
+        {
+            "version": "1.16.0",
+            "license": "LGPL 2.1 or MPL 1.1",
+            "id": "cairo"
+        },
+        {
+            "version": "2.12.1",
+            "license": "GPL-2.0-only and LicenseRef-FreeType",
+            "id": "freetype"
+        },
+        {
+            "version": "1.68.0",
+            "license": "Boost-1.0",
+            "id": "boost"
+        },
+        {
+            "version": "2019.3",
+            "license": "MIT",
+            "id": "pytz"
+        },
+        {
+            "version": "2.8.0",
+            "license": "BSD 3 Clause",
+            "id": "python-dateutil"
+        },
+        {
+            "version": "3.9.0",
+            "license": "BSD-3-Clause",
+            "id": "libblas"
+        },
+        {
+            "version": "3.9.0",
+            "license": "BSD-3-Clause",
+            "id": "libcblas"
+        },
+        {
+            "version": "3.9.0",
+            "license": "BSD-3-Clause",
+            "id": "liblapack"
+        },
+        {
+            "version": "0.3.21",
+            "license": "BSD-3-Clause",
+            "id": "libopenblas"
+        },
+        {
+            "version": "5.0.0",
+            "license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "id": "libgfortran"
+        },
+        {
+            "version": "12.2.0",
+            "license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "id": "libgfortran5"
+        },
+        {
+            "version": "15.0.7",
+            "license": "Apache-2.0 WITH LLVM-exception",
+            "id": "llvm-openmp"
+        },
+        {
+            "version": "9e",
+            "license": "IJG",
+            "id": "jpeg"
+        },
+        {
+            "version": "4.4.0",
+            "license": "HPND",
+            "id": "libtiff"
+        },
+        {
+            "version": "1.2.4",
+            "license": "BSD-3-Clause",
+            "id": "libwebp-base"
+        },
+        {
+            "version": "2.14",
+            "license": "MIT",
+            "id": "lcms2"
+        },
+        {
+            "version": "1.13",
+            "license": "MIT",
+            "id": "libxcb"
+        },
+        {
+            "version": "2.5.0",
+            "license": "BSD-2-Clause",
+            "id": "openjpeg"
+        },
+        {
+            "version": "1.6.39",
+            "license": "Zlib",
+            "id": "libpng"
+        },
+        {
+            "version": "1.5.2",
+            "license": "BSD-3-Clause",
+            "id": "zstd"
+        },
+        {
+            "version": "4.0.0",
+            "license": "Apache-2.0",
+            "id": "lerc"
+        },
+        {
+            "version": "1.14",
+            "license": "MIT",
+            "id": "libdeflate"
+        },
+        {
+            "version": "1.1.3",
+            "license": "MIT",
+            "id": "xorg-libxdmcp"
+        },
+        {
+            "version": "1.0.9",
+            "license": "MIT",
+            "id": "xorg-libxau"
+        },
+        {
+            "version": "0.4",
+            "license": "MIT",
+            "id": "pthread-stubs"
+        },
+        {
+            "version": "1.2.13",
+            "license": "Zlib",
+            "id": "zlib"
+        },
+        {
+            "version": "2.74.1",
+            "license": "LGPL-2.1-or-later",
+            "id": "glib"
+        },
+        {
+            "version": "2.13.94",
+            "license": "MIT",
+            "id": "fontconfig"
+        },
+        {
+            "version": "58.2",
+            "license": "MIT",
+            "id": "icu"
+        },
+        {
+            "version": "0.38.0",
+            "license": "MIT",
+            "id": "pixman"
+        },
+        {
+            "version": "0.21.1",
+            "license": "LGPL-2.1-or-later AND GPL-3.0-or-later",
+            "id": "gettext"
+        },
+        {
+            "version": "2.74.1",
+            "license": "LGPL-2.1-or-later",
+            "id": "libglib"
+        },
+        {
+            "version": "2.74.1",
+            "license": "LGPL-2.1-or-later",
+            "id": "glib-tools"
+        },
+        {
+            "version": "1.17",
+            "license": "GPL and LGPL",
+            "id": "libiconv"
+        },
+        {
+            "version": "10.40",
+            "license": "BSD-3-Clause",
+            "id": "pcre2"
+        },
+        {
+            "version": "1.0.8",
+            "license": "bzip2",
+            "id": "bzip2"
+        },
+        {
+            "version": "2.9.14",
+            "license": "MIT",
+            "id": "libxml2"
+        },
+        {
+            "version": "1.68.0",
+            "license": "Boost-1.0",
+            "id": "boost-cpp"
+        }
+    ],
+    "links": [
+        {
+            "source": "rxn_rebuild",
+            "target": "brs_utils"
+        },
+        {
+            "source": "rxn_rebuild",
+            "target": "rr_cache"
+        },
+        {
+            "source": "rxn_rebuild",
+            "target": "python"
+        },
+        {
+            "source": "brs_utils",
+            "target": "requests"
+        },
+        {
+            "source": "brs_utils",
+            "target": "colorlog"
+        },
+        {
+            "source": "brs_utils",
+            "target": "colored"
+        },
+        {
+            "source": "brs_utils",
+            "target": "python"
+        },
+        {
+            "source": "rr_cache",
+            "target": "requests"
+        },
+        {
+            "source": "rr_cache",
+            "target": "rdkit"
+        },
+        {
+            "source": "rr_cache",
+            "target": "colored"
+        },
+        {
+            "source": "rr_cache",
+            "target": "brs_utils"
+        },
+        {
+            "source": "rr_cache",
+            "target": "python"
+        },
+        {
+            "source": "python",
+            "target": "pip"
+        },
+        {
+            "source": "python",
+            "target": "libcxx"
+        },
+        {
+            "source": "python",
+            "target": "ncurses"
+        },
+        {
+            "source": "python",
+            "target": "libzlib"
+        },
+        {
+            "source": "python",
+            "target": "xz"
+        },
+        {
+            "source": "python",
+            "target": "readline"
+        },
+        {
+            "source": "python",
+            "target": "openssl"
+        },
+        {
+            "source": "python",
+            "target": "libffi"
+        },
+        {
+            "source": "python",
+            "target": "sqlite"
+        },
+        {
+            "source": "python",
+            "target": "tk"
+        },
+        {
+            "source": "requests",
+            "target": "python"
+        },
+        {
+            "source": "requests",
+            "target": "idna"
+        },
+        {
+            "source": "requests",
+            "target": "certifi"
+        },
+        {
+            "source": "requests",
+            "target": "urllib3"
+        },
+        {
+            "source": "requests",
+            "target": "charset-normalizer"
+        },
+        {
+            "source": "colorlog",
+            "target": "python"
+        },
+        {
+            "source": "colorlog",
+            "target": "python_abi"
+        },
+        {
+            "source": "colored",
+            "target": "python"
+        },
+        {
+            "source": "idna",
+            "target": "python"
+        },
+        {
+            "source": "certifi",
+            "target": "python"
+        },
+        {
+            "source": "urllib3",
+            "target": "certifi"
+        },
+        {
+            "source": "urllib3",
+            "target": "python"
+        },
+        {
+            "source": "urllib3",
+            "target": "idna"
+        },
+        {
+            "source": "urllib3",
+            "target": "pyopenssl"
+        },
+        {
+            "source": "urllib3",
+            "target": "cryptography"
+        },
+        {
+            "source": "urllib3",
+            "target": "pysocks"
+        },
+        {
+            "source": "urllib3",
+            "target": "brotlipy"
+        },
+        {
+            "source": "charset-normalizer",
+            "target": "python"
+        },
+        {
+            "source": "pip",
+            "target": "setuptools"
+        },
+        {
+            "source": "pip",
+            "target": "wheel"
+        },
+        {
+            "source": "pip",
+            "target": "python"
+        },
+        {
+            "source": "readline",
+            "target": "ncurses"
+        },
+        {
+            "source": "openssl",
+            "target": "ca-certificates"
+        },
+        {
+            "source": "sqlite",
+            "target": "libzlib"
+        },
+        {
+            "source": "sqlite",
+            "target": "ncurses"
+        },
+        {
+            "source": "sqlite",
+            "target": "readline"
+        },
+        {
+            "source": "sqlite",
+            "target": "libsqlite"
+        },
+        {
+            "source": "tk",
+            "target": "libzlib"
+        },
+        {
+            "source": "setuptools",
+            "target": "python"
+        },
+        {
+            "source": "setuptools",
+            "target": "python_abi"
+        },
+        {
+            "source": "wheel",
+            "target": "python"
+        },
+        {
+            "source": "libsqlite",
+            "target": "libzlib"
+        },
+        {
+            "source": "pyopenssl",
+            "target": "python"
+        },
+        {
+            "source": "pyopenssl",
+            "target": "cryptography"
+        },
+        {
+            "source": "cryptography",
+            "target": "python"
+        },
+        {
+            "source": "cryptography",
+            "target": "python_abi"
+        },
+        {
+            "source": "cryptography",
+            "target": "openssl"
+        },
+        {
+            "source": "cryptography",
+            "target": "cffi"
+        },
+        {
+            "source": "pysocks",
+            "target": "python"
+        },
+        {
+            "source": "pysocks",
+            "target": "python_abi"
+        },
+        {
+            "source": "brotlipy",
+            "target": "python"
+        },
+        {
+            "source": "brotlipy",
+            "target": "python_abi"
+        },
+        {
+            "source": "brotlipy",
+            "target": "cffi"
+        },
+        {
+            "source": "cffi",
+            "target": "pycparser"
+        },
+        {
+            "source": "cffi",
+            "target": "python"
+        },
+        {
+            "source": "cffi",
+            "target": "python_abi"
+        },
+        {
+            "source": "cffi",
+            "target": "libffi"
+        },
+        {
+            "source": "pycparser",
+            "target": "python"
+        },
+        {
+            "source": "rdkit",
+            "target": "six"
+        },
+        {
+            "source": "rdkit",
+            "target": "pandas"
+        },
+        {
+            "source": "rdkit",
+            "target": "pillow"
+        },
+        {
+            "source": "rdkit",
+            "target": "pycairo"
+        },
+        {
+            "source": "rdkit",
+            "target": "python"
+        },
+        {
+            "source": "rdkit",
+            "target": "libcxx"
+        },
+        {
+            "source": "rdkit",
+            "target": "numpy"
+        },
+        {
+            "source": "rdkit",
+            "target": "cairo"
+        },
+        {
+            "source": "rdkit",
+            "target": "freetype"
+        },
+        {
+            "source": "rdkit",
+            "target": "boost"
+        },
+        {
+            "source": "six",
+            "target": "python"
+        },
+        {
+            "source": "pandas",
+            "target": "python"
+        },
+        {
+            "source": "pandas",
+            "target": "python_abi"
+        },
+        {
+            "source": "pandas",
+            "target": "libcxx"
+        },
+        {
+            "source": "pandas",
+            "target": "numpy"
+        },
+        {
+            "source": "pandas",
+            "target": "setuptools"
+        },
+        {
+            "source": "pandas",
+            "target": "pytz"
+        },
+        {
+            "source": "pandas",
+            "target": "python-dateutil"
+        },
+        {
+            "source": "pillow",
+            "target": "python"
+        },
+        {
+            "source": "pillow",
+            "target": "python_abi"
+        },
+        {
+            "source": "pillow",
+            "target": "libzlib"
+        },
+        {
+            "source": "pillow",
+            "target": "jpeg"
+        },
+        {
+            "source": "pillow",
+            "target": "freetype"
+        },
+        {
+            "source": "pillow",
+            "target": "libtiff"
+        },
+        {
+            "source": "pillow",
+            "target": "libwebp-base"
+        },
+        {
+            "source": "pillow",
+            "target": "lcms2"
+        },
+        {
+            "source": "pillow",
+            "target": "tk"
+        },
+        {
+            "source": "pillow",
+            "target": "libxcb"
+        },
+        {
+            "source": "pillow",
+            "target": "openjpeg"
+        },
+        {
+            "source": "pycairo",
+            "target": "python"
+        },
+        {
+            "source": "pycairo",
+            "target": "python_abi"
+        },
+        {
+            "source": "pycairo",
+            "target": "cairo"
+        },
+        {
+            "source": "numpy",
+            "target": "python"
+        },
+        {
+            "source": "numpy",
+            "target": "python_abi"
+        },
+        {
+            "source": "numpy",
+            "target": "libblas"
+        },
+        {
+            "source": "numpy",
+            "target": "libcxx"
+        },
+        {
+            "source": "numpy",
+            "target": "libcblas"
+        },
+        {
+            "source": "numpy",
+            "target": "liblapack"
+        },
+        {
+            "source": "cairo",
+            "target": "zlib"
+        },
+        {
+            "source": "cairo",
+            "target": "freetype"
+        },
+        {
+            "source": "cairo",
+            "target": "libpng"
+        },
+        {
+            "source": "cairo",
+            "target": "glib"
+        },
+        {
+            "source": "cairo",
+            "target": "fontconfig"
+        },
+        {
+            "source": "cairo",
+            "target": "icu"
+        },
+        {
+            "source": "cairo",
+            "target": "pixman"
+        },
+        {
+            "source": "freetype",
+            "target": "libzlib"
+        },
+        {
+            "source": "freetype",
+            "target": "libpng"
+        },
+        {
+            "source": "boost",
+            "target": "python"
+        },
+        {
+            "source": "boost",
+            "target": "libcxx"
+        },
+        {
+            "source": "boost",
+            "target": "numpy"
+        },
+        {
+            "source": "boost",
+            "target": "boost-cpp"
+        },
+        {
+            "source": "pytz",
+            "target": "python"
+        },
+        {
+            "source": "python-dateutil",
+            "target": "python"
+        },
+        {
+            "source": "python-dateutil",
+            "target": "six"
+        },
+        {
+            "source": "libblas",
+            "target": "libopenblas"
+        },
+        {
+            "source": "libcblas",
+            "target": "libblas"
+        },
+        {
+            "source": "liblapack",
+            "target": "libblas"
+        },
+        {
+            "source": "libopenblas",
+            "target": "libgfortran"
+        },
+        {
+            "source": "libopenblas",
+            "target": "libgfortran5"
+        },
+        {
+            "source": "libopenblas",
+            "target": "llvm-openmp"
+        },
+        {
+            "source": "libgfortran",
+            "target": "libgfortran5"
+        },
+        {
+            "source": "libgfortran5",
+            "target": "llvm-openmp"
+        },
+        {
+            "source": "libtiff",
+            "target": "libcxx"
+        },
+        {
+            "source": "libtiff",
+            "target": "libzlib"
+        },
+        {
+            "source": "libtiff",
+            "target": "zstd"
+        },
+        {
+            "source": "libtiff",
+            "target": "jpeg"
+        },
+        {
+            "source": "libtiff",
+            "target": "xz"
+        },
+        {
+            "source": "libtiff",
+            "target": "libwebp-base"
+        },
+        {
+            "source": "libtiff",
+            "target": "lerc"
+        },
+        {
+            "source": "libtiff",
+            "target": "libdeflate"
+        },
+        {
+            "source": "lcms2",
+            "target": "jpeg"
+        },
+        {
+            "source": "lcms2",
+            "target": "libtiff"
+        },
+        {
+            "source": "libxcb",
+            "target": "xorg-libxdmcp"
+        },
+        {
+            "source": "libxcb",
+            "target": "xorg-libxau"
+        },
+        {
+            "source": "libxcb",
+            "target": "pthread-stubs"
+        },
+        {
+            "source": "openjpeg",
+            "target": "libcxx"
+        },
+        {
+            "source": "openjpeg",
+            "target": "libpng"
+        },
+        {
+            "source": "openjpeg",
+            "target": "libzlib"
+        },
+        {
+            "source": "openjpeg",
+            "target": "libtiff"
+        },
+        {
+            "source": "libpng",
+            "target": "libzlib"
+        },
+        {
+            "source": "zstd",
+            "target": "libcxx"
+        },
+        {
+            "source": "zstd",
+            "target": "libzlib"
+        },
+        {
+            "source": "lerc",
+            "target": "libcxx"
+        },
+        {
+            "source": "zlib",
+            "target": "libzlib"
+        },
+        {
+            "source": "glib",
+            "target": "libcxx"
+        },
+        {
+            "source": "glib",
+            "target": "libzlib"
+        },
+        {
+            "source": "glib",
+            "target": "gettext"
+        },
+        {
+            "source": "glib",
+            "target": "python"
+        },
+        {
+            "source": "glib",
+            "target": "libglib"
+        },
+        {
+            "source": "glib",
+            "target": "glib-tools"
+        },
+        {
+            "source": "fontconfig",
+            "target": "freetype"
+        },
+        {
+            "source": "fontconfig",
+            "target": "libxml2"
+        },
+        {
+            "source": "icu",
+            "target": "libcxx"
+        },
+        {
+            "source": "gettext",
+            "target": "libiconv"
+        },
+        {
+            "source": "libglib",
+            "target": "libcxx"
+        },
+        {
+            "source": "libglib",
+            "target": "libzlib"
+        },
+        {
+            "source": "libglib",
+            "target": "libiconv"
+        },
+        {
+            "source": "libglib",
+            "target": "pcre2"
+        },
+        {
+            "source": "libglib",
+            "target": "libffi"
+        },
+        {
+            "source": "libglib",
+            "target": "gettext"
+        },
+        {
+            "source": "glib-tools",
+            "target": "libcxx"
+        },
+        {
+            "source": "glib-tools",
+            "target": "libzlib"
+        },
+        {
+            "source": "glib-tools",
+            "target": "libglib"
+        },
+        {
+            "source": "pcre2",
+            "target": "bzip2"
+        },
+        {
+            "source": "pcre2",
+            "target": "libzlib"
+        },
+        {
+            "source": "libxml2",
+            "target": "zlib"
+        },
+        {
+            "source": "libxml2",
+            "target": "xz"
+        },
+        {
+            "source": "libxml2",
+            "target": "icu"
+        },
+        {
+            "source": "libxml2",
+            "target": "libiconv"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "zlib"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "libcxx"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "xz"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "bzip2"
+        },
+        {
+            "source": "boost-cpp",
+            "target": "icu"
+        }
+    ]
+}
